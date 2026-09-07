@@ -1,0 +1,101 @@
+Employee_ID,Name,Age,Department,Job_Role,City,Salary,Experience_Years,Performance_Rating,Joining_Year
+EMP0001,Arjun Sharma,44,Marketing,Financial Analyst,Pune,48289,11.0,5,2019.0
+EMP0002,Simran Kapoor,22,Data Science,Data Scientist,Pune,60495,,1,2026.0
+EMP0003,Karan Bansal,41,IT,HR Executive,Pune,88878,8.8,1,2020.0
+EMP0004,Kavya Mehta,29,Finance,Financial Analyst,Chandigarh,43396,1.4,1,2023.0
+EMP0005,Isha Shah,29,Operations,Data Analyst,Kolkata,100284,1.9,4,N/A
+EMP0006,Riya Gupta,47,IT,Sales Executive,Pune,39116,0.7,2,2022.0
+EMP0007,Aditya Mishra,28,Operations,Data Scientist,Jaipur,66434,6.8,3,2020.0
+EMP0008,Isha Mehta,27,IT,Marketing Executive,Mumbai,109840,9.5,5,2021.0
+EMP0009,Rahul Joshi,33,N/A,Financial Analyst,Chandigarh,37331,3.4,1,missing
+EMP0010,Neha Gupta,23,Finance,Sales Executive,Pune,115909,7.5,4,2020.0
+EMP0011,Ananya Patel,28,IT,Marketing Executive,Jaipur,106484,6.0,missing,2020.0
+EMP0012,Aditi Joshi,23,Operations,Data Analyst,Mumbai,50033,9.4,4,2019.0
+EMP0013,Neha Kapoor,40,Sales,Marketing Executive,Delhi,119166,N/A,5,2022.0
+EMP0014,Sneha Verma,30,Sales,Software Engineer,Kolkata,30425,14.3,3,2026.0
+EMP0015,Rahul Malhotra,50,Data Science,Marketing Executive,Pune,50032,5.6,2,2026.0
+EMP0016,Aditi Reddy,N/A,HR,Sales Executive,Kolkata,32552,1.7,3,2022.0
+EMP0017,Vikram Sharma,28,HR,Data Scientist,Mumbai,93699,12.2,5,2020.0
+EMP0018,Rohan Agarwal,36,,Software Engineer,Hyderabad,99163,13.1,4,2021.0
+EMP0019,Riya Chopra,44,IT,Financial Analyst,Hyderabad,82296,14.9,3,2025.0
+EMP0020,Aditi Joshi,N/A,Finance,Financial Analyst,Mumbai,,0.3,5,2021.0
+EMP0021,Simran Singh,21,Data Science,Data Analyst,Pune,38834,13.6,3,2019.0
+EMP0022,Aditi Singh,29,IT,Operations Analyst,Pune,100678,2.0,5,2025.0
+EMP0023,Vikram Chopra,36,Operations,HR Executive,Pune,42363,1.5,4,2023.0
+EMP0024,Kavya Kapoor,35,Operations,Data Analyst,Mumbai,37944,6.0,3,2019.0
+EMP0025,Vikram Singh,27,N/A,Operations Analyst,N/A,85296,2.8,4,2021.0
+EMP0026,Aditya Joshi,46,Operations,Data Scientist,Delhi,115477,15.0,1,2019.0
+EMP0027,Vikram Patel,34,Sales,Operations Analyst,Pune,82565,13.5,2,2024.0
+EMP0028,Aarav Kapoor,29,Operations,Operations Analyst,Hyderabad,85444,10.4,5,2025.0
+EMP0029,Rohan Singh,30,Finance,Data Analyst,Delhi,71104,0.9,5,2025.0
+EMP0030,Aditi Reddy,48,HR,Software Engineer,Delhi,96562,1.2,2,2019.0
+EMP0031,Nisha Verma,42,Operations,Financial Analyst,Jaipur,45713,14.1,5,2021.0
+EMP0032,Simran Shah,22,HR,Data Scientist,Jaipur,116163,8.8,5,2023.0
+EMP0033,Ananya Singh,42,IT,Sales Executive,Pune,64814,5.9,3,2025.0
+EMP0034,Sneha Reddy,45,Data Science,Data Analyst,Kolkata,111416,15.0,N/A,2019.0
+EMP0035,Riya Singh,37,Marketing,Software Engineer,Chandigarh,39016,13.2,3,2022.0
+EMP0036,Rahul Joshi,47,HR,Marketing Executive,Delhi,117538,12.3,3,2019.0
+EMP0037,Rohan Gupta,24,Data Science,Software Engineer,Hyderabad,66930,9.1,3,2021.0
+EMP0038,Ananya Malhotra,N/A,Marketing,Data Analyst,Mumbai,113136,6.4,3,2018.0
+EMP0039,Aarav Mehta,45,Finance,N/A,Bengaluru,87912,8.3,4,2026.0
+EMP0040,Aarav Verma,23,IT,Software Engineer,Delhi,78393,8.7,2,2024.0
+EMP0041,Rohan Sharma,30,Marketing,Data Analyst,Chandigarh,57535,10.2,1,2023.0
+EMP0042,Riya Reddy,48,Sales,Software Engineer,,51299,14.6,2,2024.0
+EMP0043,Aarav Patel,44,Marketing,HR Executive,Pune,64970,2.4,1,2024.0
+EMP0044,Vivaan Mishra,36,Finance,Financial Analyst,Kolkata,75830,4.6,missing,2021.0
+EMP0045,Aarav Agarwal,27,Sales,Sales Executive,Hyderabad,39099,14.5,3,2023.0
+EMP0046,Aditi Kapoor,42,Operations,Sales Executive,Delhi,45118,13.2,3,2020.0
+EMP0047,Simran Gupta,22,Data Science,HR Executive,Chandigarh,71114,6.5,5,2019.0
+EMP0048,Neha Reddy,39,Finance,Marketing Executive,Delhi,87154,0.0,5,2021.0
+EMP0049,Isha Kapoor,23,IT,Sales Executive,,,12.7,3,2026.0
+EMP0050,Priya Agarwal,34,N/A,HR Executive,Hyderabad,missing,1.9,4,2024.0
+EMP0051,Rahul Shah,39,Marketing,HR Executive,Delhi,69829,4.3,N/A,2023.0
+EMP0052,Meera Joshi,35,IT,Financial Analyst,Kolkata,52241,9.9,3,2026.0
+EMP0053,Nisha Mehta,23,Operations,Financial Analyst,Hyderabad,59444,12.1,2,2018.0
+EMP0054,Vivaan Singh,36,HR,Data Scientist,Kolkata,84321,13.3,5,2021.0
+EMP0055,Neha Joshi,33,Finance,Software Engineer,Delhi,43970,11.7,2,2020.0
+EMP0056,Aditi Joshi,22,HR,Financial Analyst,Mumbai,89829,2.0,4,2026.0
+EMP0057,Riya Shah,31,Operations,Operations Analyst,Jaipur,101810,,2,2025.0
+EMP0058,Meera Gupta,45,Finance,Marketing Executive,Kolkata,112149,3.6,4,2019.0
+EMP0059,Priya Singh,29,Marketing,Sales Executive,N/A,48136,,4,2020.0
+EMP0060,Karan Verma,34,Sales,Sales Executive,Kolkata,84496,0.9,4,2024.0
+EMP0061,Simran Bansal,21,Operations,HR Executive,Kolkata,N/A,14.1,3,2024.0
+EMP0062,Kavya Malhotra,44,IT,Financial Analyst,Kolkata,58760,4.1,4,2018.0
+EMP0063,Neha Mehta,42,IT,N/A,Bengaluru,91261,13.8,5,missing
+EMP0064,Aarav Reddy,N/A,HR,Data Analyst,Mumbai,114246,6.4,4,2020.0
+EMP0065,Vivaan Gupta,33,Marketing,Financial Analyst,Kolkata,72840,5.1,4,2022.0
+EMP0066,Kavya Gupta,missing,missing,Operations Analyst,Delhi,100702,0.8,3,2021.0
+EMP0067,Aditya Chopra,41,Data Science,Data Analyst,Pune,56130,12.6,5,2020.0
+EMP0068,Vikram Patel,36,IT,Data Scientist,Pune,90952,missing,3,2020.0
+EMP0069,Nisha Shah,44,IT,Data Scientist,Bengaluru,70768,1.6,1,2022.0
+EMP0070,Simran Agarwal,50,Sales,HR Executive,N/A,39961,8.9,2,missing
+EMP0071,Priya Mishra,42,HR,Data Scientist,,75508,8.0,3,2019.0
+EMP0072,Aditi Agarwal,31,Data Science,HR Executive,Kolkata,43833,6.5,3,2025.0
+EMP0073,Rohan Kapoor,26,IT,Marketing Executive,Kolkata,90931,6.5,5,2022.0
+EMP0074,Sneha Mishra,28,Operations,Data Scientist,Hyderabad,89087,3.7,4,2024.0
+EMP0075,Sneha Sharma,36,Operations,N/A,Bengaluru,93904,3.2,3,2023.0
+EMP0076,Ananya Reddy,40,IT,missing,Delhi,97715,14.2,1,2021.0
+EMP0077,Kavya Joshi,38,N/A,Financial Analyst,Kolkata,114659,10.7,4,2018.0
+EMP0078,Aditya Gupta,28,Sales,Financial Analyst,Hyderabad,117026,8.7,4,2026.0
+EMP0079,Aditi Mehta,34,IT,Sales Executive,Chandigarh,89473,4.1,3,2021.0
+EMP0080,Arjun Bansal,27,Marketing,Data Scientist,Bengaluru,55105,3.2,missing,
+EMP0081,Simran Chopra,37,HR,Marketing Executive,Mumbai,55443,4.4,3,2020.0
+EMP0082,Priya Sharma,43,HR,Software Engineer,Hyderabad,35965,14.6,5,2022.0
+EMP0083,Rohan Agarwal,N/A,Operations,Operations Analyst,Mumbai,31607,8.6,4,2025.0
+EMP0084,Meera Mehta,26,Data Science,Marketing Executive,Kolkata,N/A,12.3,missing,2025.0
+EMP0085,Aditya Shah,41,IT,N/A,Bengaluru,missing,12.2,3,2019.0
+EMP0086,Vikram Verma,38,Operations,HR Executive,Pune,98494,5.7,4,2022.0
+EMP0087,Simran Kapoor,30,HR,Data Analyst,Mumbai,57235,9.4,3,2019.0
+EMP0088,Rahul Singh,26,HR,Data Scientist,Bengaluru,30350,6.1,5,2025.0
+EMP0089,Priya Sharma,28,Marketing,Marketing Executive,Kolkata,39329,10.3,N/A,2021.0
+EMP0090,Kavya Verma,38,Finance,Software Engineer,missing,48643,1.1,2,2022.0
+EMP0091,Nisha Bansal,,HR,Marketing Executive,Kolkata,,7.0,3,2024.0
+EMP0092,Ananya Malhotra,,Sales,Operations Analyst,Mumbai,108385,0.6,4,2023.0
+EMP0093,Nisha Gupta,21,Data Science,,Delhi,118117,N/A,5,2018.0
+EMP0094,Rahul Joshi,37,IT,Operations Analyst,Hyderabad,53788,15.0,4,2025.0
+EMP0095,Aditya Joshi,32,Sales,Sales Executive,Chandigarh,117835,1.6,2,2023.0
+EMP0096,Kavya Bansal,36,N/A,HR Executive,Delhi,89614,1.3,3,2023.0
+EMP0097,Arjun Chopra,33,Operations,Data Analyst,Kolkata,84165,0.8,5,2023.0
+EMP0098,Nisha Chopra,36,IT,Operations Analyst,missing,56680,4.0,2,
+EMP0099,Meera Reddy,43,Sales,Data Scientist,Delhi,112578,9.1,2,2020.0
+EMP0100,Priya Malhotra,21,HR,HR Executive,Mumbai,59451,14.9,1,2025.0

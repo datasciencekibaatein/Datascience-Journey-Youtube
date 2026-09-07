@@ -1,0 +1,201 @@
+Employee_ID,Name,Age,Gender,City,Department,Salary,Experience_Years,Joining_Date,Education,Employment_Type,Employment_Status,Product,Quantity,Sales_Amount,Discount_Percent,Remote_Work,Performance_Rating
+EMP0001,Aarav Sharma,28.0,Female,Hyderabad,HR,31556.0,5.0,2026-04-26 00:00:00,Graduate,Full-time,Resigned,Laptop,1,6240.0,13.0,Yes,Excellent
+EMP0002,Vivaan Verma,56.0,Female,Hyderabad,Data Analytics,77124.0,19.0,2026-01-11 00:00:00,Diploma,Full-time,Inactive,Keyboard,7,22398.0,17.0,Yes,Good
+EMP0003,  Aditya Singh ,42.0,Female,Mumbai,Operations,51793.0,12.0,2019-01-15 00:00:00,High School,Contract,Active,Keyboard,8,35242.0,7.0,No,Excellent
+EMP0004,Arjun Mehta,,Female,Amritsar,HR,101854.0,3.0,2025-01-18 00:00:00,Graduate,Part-time,On Leave,Laptop,4,6719.0,24.0,No,Poor
+EMP0005,Rohan Gupta,44.0,Female,Hyderabad,IT,67638.0,3.0,2022-02-25 00:00:00,High School,Part-time,Inactive,Phone,8,24967.0,17.0,Yes,Average
+EMP0006,Rahul Kapoor,24.0,Female,KOLKATA,IT,85043.0,3.0,2018-05-12 00:00:00,Post Graduate,Contract,Inactive,Keyboard,8,26028.0,29.0,Yes,Average
+EMP0007,Karan Malhotra,29.0,Female,Amritsar,Customer Support,89651.0,19.0,2026-05-10 00:00:00,12th,Contract,Inactive,Phone,9,32443.0,5.0,Yes,Excellent
+EMP0008,Vikram Bhatia,30.0,Female,,Marketing,66938.0,13.0,2025-08-19 00:00:00,12th,Intern,On Leave,Headphones,1,44683.0,7.0,No,Average
+EMP0009,Ankit Arora,28.0,M,Jaipur,Sales,101939.0,9.0,2022-11-16 00:00:00,High School,Part-time,Active,Software License,5,41974.0,32.0,Yes,Good
+EMP0010,Nikhil Khanna,44.0,Male,Amritsar,operations,67349.0,16.0,2024-01-19 00:00:00,Graduate,Full-time,On Leave,Software License,5,15792.0,3.0,Yes,Excellent
+EMP0006,Rajiv Sethi,26.0,Male,Bangalore,Data Analytics,152399.0,18.0,2018-10-11 00:00:00,Post Graduate,Contract,Resigned,Phone,9,49597.0,12.0,No,Poor
+EMP0012,Siddharth Jain,44.0,Female,Mumbai,HR,139845.0,8.0,2023-10-21 00:00:00,Graduate,Contract,Active,Headphones,9,15180.0,37.0,Yes,Excellent
+EMP0013,Manish Agarwal,25.0,Male,Delhi,Operations,,3.0,2020-07-26 00:00:00,High School,Part-time,On Leave,Keyboard,8,14140.0,34.0,Yes,Poor
+EMP0014,Amit Tandon,36.0,Male,Mumbai,Marketing,148987.0,14.0,2022-07-26 00:00:00,Diploma,Intern,Resigned,Monitor,1,44229.0,6.0,Yes,Poor
+EMP0015,  Varun Sood ,42.0,Male,Hyderabad,Data Analytics,53644.0,5.0,2020-10-15 00:00:00,12th,Part-time,On Leave,Monitor,4,5040.0,28.0,Yes,Excellent
+EMP0016,Yash Chawla,55.0,Male,N/A,Customer Support,28868.0,16.0,2019-01-18 00:00:00,12th,Part-time,Resigned,Laptop,3,24936.0,0.0,No,Average
+EMP0017,Mohit Bansal,50.0,Female,Bangalore,HR,99776.0,10.0,2022-09-29 00:00:00,Post Graduate,Full-time,Active,Keyboard,6,3846.0,3.0,No,Good
+EMP0018,Akash Srivastava,24.0,Male,MUMBAI,Marketing,158124.0,8.0,2018-11-25 00:00:00,12th,Full-time,Inactive,Headphones,10,2704.0,39.0,Yes,Poor
+EMP0019,Harsh Vardhan,58.0,Female,Chennai,,173170.0,11.0,2023-11-12 00:00:00,Post Graduate,Contract,Resigned,Phone,5,30064.0,20.0,Yes,Excellent
+EMP0020,Abhishek Joshi,50.0,F,Ahmedabad,HR,172585.0,17.0,2019-02-14 00:00:00,Diploma,Part-time,On Leave,Laptop,4,24317.0,18.0,Yes,Poor
+EMP0021,Priya Sharma,55.0,Male,Ahmedabad,IT,104303.0,4.0,2024-11-10 00:00:00,Post Graduate,Contract,Active,Laptop,9,10287.0,17.0,No,Good
+EMP0022,Ananya Gupta,42.0,Female,Ahmedabad,Data Analytics,78371.0,9.0,2025-09-16 00:00:00,Graduate,Full-time,Resigned,Software License,5,2989.0,0.0,No,Good
+EMP0023,Isha Mehta,37.0,Female,Ahmedabad,customer support,67357.0,18.0,2026-04-25 00:00:00,Graduate,Full-time,Active,Keyboard,3,35855.0,2.0,No,Good
+EMP0024,Neha Kapoor,thirty,Female,Pune,Sales,58409.0,12.0,2018-06-21 00:00:00,Post Graduate,Part-time,Active,Tablet,9,26732.0,39.0,Yes,Good
+EMP0025,Riya Malhotra,31.0,Male,Bangalore,Operations,71413.0,14.0,2022-08-16 00:00:00,Post Graduate,Contract,Inactive,Software License,2,25170.0,2.0,No,Good
+EMP0026,Sneha Bhatia,33.0,Female,Hyderabad,HR,145665.0,1.0,2021-12-03 00:00:00,,Intern,On Leave,Tablet,2,18392.0,22.0,No,Average
+EMP0027,Pooja Arora,22.0,Male,Amritsar,IT,55236.0,2.0,2020-12-05 00:00:00,Graduate,Intern,On Leave,Keyboard,6,28699.0,38.0,Yes,Poor
+EMP0028,Kavya Khanna,57.0,Male,Kolkata,Sales,74828.0,17.0,2020-11-09 00:00:00,NA,Part-time,On Leave,Monitor,2,43631.0,21.0,No,Excellent
+EMP0029,Simran Sethi,40.0,Female,Pune,Customer Support,157939.0,10.0,2021-06-20 00:00:00,High School,Part-time,Inactive,Monitor,7,44488.0,11.0,No,Poor
+EMP0030,Shreya Jain,56.0,male,Hyderabad,Customer Support,25106.0,19.0,2021-05-29 00:00:00,High School,Contract,Resigned,Monitor,8,44377.0,13.0,No,Good
+EMP0031,Aditi Agarwal,26.0,Female,Mumbai,HR,99392.0,10.0,2023-10-13 00:00:00,Post Graduate,Part-time,Inactive,Laptop,1,16146.0,30.0,Yes,Poor
+EMP0032,Nisha Tandon,47.0,Female,Jaipur,Customer Support,175908.0,8.0,,Post Graduate,Full-time,Active,Software License,7,14441.0,11.0,No,Excellent
+EMP0033,Meera Sood,56.0,Female,Bangalore,Data Analytics,90325.0,17.0,2019-05-13 00:00:00,High School,Contract,Resigned,Headphones,9,28066.0,35.0,No,Good
+EMP0034,  Divya Chawla ,51.0,Male,Chennai,Data Analytics,142983.0,8.0,2020-11-27 00:00:00,Diploma,Intern,Active,Keyboard,5,15467.0,17.0,No,Average
+EMP0035,Tanya Bansal,55.0,Male,Hyderabad,Customer Support,46122.0,5.0,2019-07-21 00:00:00,Post Graduate,Full-time,Resigned,Monitor,6,35660.0,29.0,No,Excellent
+EMP0036,Muskan Srivastava,5,Male,Amritsar,Customer Support,135138.0,16.0,2022-05-15 00:00:00,Graduate,Contract,On Leave,Software License,7,27560.0,34.0,Yes,Poor
+EMP0037,Sakshi Joshi,35.0,Female,Delhi,Customer Support,96548.0,11.0,2022-11-21 00:00:00,12th,Part-time,Resigned,Phone,10,35104.0,1.0,No,Excellent
+EMP0038,Radhika Verma,26.0,Female,Bangalore,Sales,137358.0,9.0,2019-07-10 00:00:00,12th,Contract,Inactive,Monitor,6,22218.0,24.0,No,Poor
+EMP0039,Nandini Singh,37.0,Male,Ahmedabad,Sales,46471.0,12.0,2023-04-11 00:00:00,Post Graduate,Full-time,Active,Software License,1,16305.0,12.0,Yes,
+EMP0040,Pallavi Mehta,36.0,Male,Amritsar,HR,missing,15.0,2023-04-24 00:00:00,Diploma,Contract,Inactive,Headphones,10,49116.0,7.0,Yes,Average
+EMP0041,Daniel Smith,27.0,Female,Amritsar,Customer Support,176698.0,13.0,2018-04-16 00:00:00,Post Graduate,Full-time,Inactive,Laptop,5,44943.0,38.0,Yes,Excellent
+EMP0042,Michael Johnson,43.0,Female,Mumbai,Operations,164655.0,1.0,2022-10-21 00:00:00,12th,Intern,Active,Monitor,6,41753.0,29.0,Yes,Poor
+EMP0043,James Williams,32.0,Female,Amritsar,Data Analytics,161772.0,15.0,2025-04-18 00:00:00,12th,Contract,On Leave,Software License,4,5779.0,17.0,No,Good
+EMP0044,Robert Brown,50.0,Female,Pune,Sales,174382.0,16.0,2024-11-04 00:00:00,Diploma,Part-time,Resigned,Phone,6,17031.0,21.0,No,Average
+EMP0045,William Jones,56.0,Male,MUMBAI,HR,27661.0,14.0,2023-10-18 00:00:00,12th,Part-time,Resigned,Keyboard,8,29471.0,1.0,Yes,Average
+EMP0046,David Miller,35.0,Male,Chennai,Operations,131011.0,16.0,2025-10-04 00:00:00,High School,Contract,Resigned,Keyboard,9,,22.0,No,Average
+EMP0047,Richard Davis,40.0,Male,Hyderabad,Operations,90903.0,4.0,2020-08-02 00:00:00,High School,Part-time,Inactive,Phone,8,18220.0,37.0,No,Excellent
+EMP0048,Joseph Wilson,33.0,female,Bangalore,IT,102659.0,1.0,2020-07-20 00:00:00,High School,Part-time,On Leave,Laptop,1,36364.0,18.0,Yes,Poor
+EMP0049,Thomas Moore,27.0,Female,Jaipur,Data Analytics,28215.0,15.0,2024-06-09 00:00:00,Diploma,Part-time,Active,Tablet,8,7576.0,4.0,No,Poor
+EMP0050,Charles Taylor,25.0,Male,Bangalore,Finance,176262.0,19.0,2025-01-22 00:00:00,Diploma,Full-time,Inactive,Laptop,9,27374.0,38.0,Yes,Poor
+EMP0050,Christopher Anderson,49.0,Female,Chennai,Sales,141056.0,20.0,2021-05-02 00:00:00,Graduate,Part-time,Inactive,Tablet,2,10392.0,15.0,Yes,Excellent
+EMP0052,Matthew Thomas,31.0,Female,Amritsar,Data Analytics,25701.0,10.0,2022-08-01 00:00:00,Graduate,Part-time,On Leave,Keyboard,5,46170.0,29.0,Yes,Good
+EMP0053,Anthony Jackson,37.0,Male,Kolkata,Marketing,179609.0,18.0,2025-06-01 00:00:00,Post Graduate,Part-time,On Leave,Software License,3,4779.0,3.0,Yes,Average
+EMP0054,Mark White,57.0,Male,Jaipur,IT,100657.0,,2022-12-04 00:00:00,Diploma,Intern,Resigned,Laptop,10,2712.0,27.0,No,Average
+EMP0055,Steven Harris,22.0,Male,Chennai,Sales,48940.0,6.0,2020-07-26 00:00:00,12th,Intern,On Leave,Phone,10,28666.0,40.0,No,Excellent
+EMP0056,Andrew Martin,51.0,Female,Pune,Marketing,116215.0,6.0,2022-07-31 00:00:00,Diploma,Intern,Resigned,Tablet,7,49940.0,35.0,Yes,Poor
+EMP0057,  Joshua Thompson ,26.0,Female,Mumbai,Customer Support,107448.0,17.0,2020-10-30 00:00:00,Graduate,Intern,Resigned,Laptop,4,34076.0,23.0,No,Poor
+EMP0058,Kevin Garcia,24.0,Male,Chennai,Data Analytics,78361.0,16.0,2020-12-29 00:00:00,Graduate,Full-time,Inactive,Keyboard,3,20465.0,35.0,Yes,Poor
+EMP0059,Brian Martinez,26.0,Female,Mumbai,Finance,83903.0,16.0,2019-04-10 00:00:00,Diploma,Contract,Resigned,Software License,8,31047.0,15.0,No,Good
+EMP0060,Jason Robinson,45.0,Male,Mumbai,-,74967.0,14.0,2024-09-21 00:00:00,Diploma,Contract,Active,Tablet,5,38565.0,37.0,No,Good
+EMP0061,Emily Smith,49.0,Female,Pune,Customer Support,166185.0,15.0,2023-06-07 00:00:00,Diploma,Part-time,Inactive,Headphones,7,15406.0,26.0,Yes,Average
+EMP0062,Olivia Johnson,92,Male,Jaipur,Sales,124937.0,5.0,2022-05-01 00:00:00,High School,Contract,Active,Software License,8,6634.0,33.0,No,Excellent
+EMP0063,Sophia Williams,30.0,,Mumbai,Data Analytics,132473.0,9.0,2025-05-05 00:00:00,Diploma,Intern,Active,Software License,6,44294.0,34.0,No,Average
+EMP0064,Ava Brown,52.0,Male,Hyderabad,IT,166824.0,8.0,2018-05-28 00:00:00,Graduate,Intern,Active,Software License,2,29176.0,10.0,No,Excellent
+EMP0065,Isabella Jones,23.0,Female,Pune,operations,110032.0,14.0,2018-08-18 00:00:00,Post Graduate,Part-time,Resigned,Headphones,3,11240.0,11.0,Yes,Poor
+EMP0066,Mia Miller,36.0,Male,Hyderabad,Data Analytics,155460.0,9.0,2024-07-16 00:00:00,12th,Contract,Active,Software License,8,18950.0,34.0,Yes,Excellent
+EMP0067,Charlotte Davis,49.0,Female,Kolkata,IT,115587.0,15.0,2024-08-03 00:00:00,Diploma,Part-time,Resigned,Software License,8,7089.0,15.0,No,Average
+EMP0068,Amelia Wilson,N/A,Female,Delhi,Customer Support,102561.0,9.0,2025-11-04 00:00:00,Graduate,Full-time,Resigned,Software License,5,15181.0,38.0,No,Good
+EMP0069,Harper Moore,33.0,Male,Mumbai,Sales,90700.0,10.0,2025-08-08 00:00:00,12th,Full-time,On Leave,Keyboard,3,6006.0,18.0,Y,Poor
+EMP0070,Evelyn Taylor,32.0,Female,Ahmedabad,IT,77637.0,6.0,2019-06-26 00:00:00,Diploma,Intern,On Leave,Keyboard,6,7647.0,29.0,Yes,Good
+EMP0071,Abigail Anderson,35.0,Female,Mumbai,Customer Support,129179.0,1.0,2024-04-01 00:00:00,Diploma,,Resigned,Tablet,5,38409.0,24.0,No,Excellent
+EMP0072,Ella Thomas,35.0,Female,Amritsar,HR,148594.0,3.0,2018-04-13 00:00:00,12th,Contract,Resigned,Laptop,3,3071.0,2.0,No,Poor
+EMP0073,Scarlett Jackson,28.0,Male,Kolkata,Data Analytics,50478.0,12.0,2020-08-19 00:00:00,High School,Intern,Inactive,Monitor,2,32169.0,39.0,No,Average
+EMP0074,Grace White,23.0,Female,JAIPUR,HR,122132.0,12.0,2020-06-08 00:00:00,Graduate,Contract,On Leave,Laptop,7,18180.0,12.0,Yes,Poor
+EMP0075,Chloe Harris,26.0,Male,Delhi,Operations,80602.0,8.0,2025-03-13 00:00:00,Post Graduate,Part-time,Active,Software License,9,13676.0,37.0,Yes,Good
+EMP0076,Victoria Martin,42.0,Male,Chennai,Finance,63680.0,5.0,2024-09-07 00:00:00,High School,Contract,Inactive,Laptop,1,8737.0,0.0,No,Good
+EMP0077,Riley Thompson,58.0,Male,Chennai,Sales,109874.0,5.0,2018-03-06 00:00:00,12th,Full-time,Active,Monitor,8,23826.0,32.0,Yes,unknown
+EMP0078,Aria Garcia,53.0,Male,Ahmedabad,IT,83077.0,15.0,2024-11-24 00:00:00,Graduate,Full-time,Resigned,Software License,7,28036.0,6.0,No,Poor
+EMP0079,Lily Martinez,25.0,Male,Mumbai,Finance,46178.0,9.0,2021-08-12 00:00:00,High School,Contract,Resigned,Headphones,9,19426.0,29.0,No,Excellent
+EMP0080,Zoey Robinson,28.0,Male,Kolkata,Data Analytics,169529.0,8.0,2026-01-31 00:00:00,12th,Contract,Resigned,Monitor,7,47915.0,75,No,Poor
+EMP0081,Emma Clark,41.0,Male,Jaipur,Marketing,91817.0,3.0,2022-03-14 00:00:00,Graduate,Full-time,Resigned,Laptop,6,8627.0,35.0,Yes,Average
+EMP0082,Noah Lewis,28.0,Female,Delhi,IT,132691.0,20.0,2021-12-19 00:00:00,Diploma,Contract,Active,Headphones,9,14042.0,9.0,No,Good
+EMP0083,Liam Walker,27.0,Female,Mumbai,IT,116780.0,19.0,2024-03-28 00:00:00,Post Graduate,Intern,Active,,5,1997.0,11.0,No,Average
+EMP0084,Mason Hall,42.0,Male,Bangalore,Customer Support,117018.0,3.0,2018-01-26 00:00:00,Post Graduate,Full-time,Active,Keyboard,9,14198.0,24.0,No,Poor
+EMP0085,Ethan Allen,42.0,Female,Pune,Marketing,66263.0,2.0,2022-02-24 00:00:00,Post Graduate,Part-time,Active,Keyboard,2,17932.0,28.0,N,Poor
+EMP0086,Lucas Young,49.0,Male,Ahmedabad,Marketing,133575.0,12.0,2021-01-23 00:00:00,12th,Full-time,On Leave,Keyboard,10,31991.0,33.0,No,Excellent
+EMP0087,Logan Hernandez,35.0,Male,Delhi,HR,128615.0,10.0,2024-09-20 00:00:00,Post Graduate,Part-time,On Leave,Tablet,6,7963.0,0.0,No,Poor
+EMP0088,Jacob King,32.0,Male,Ahmedabad,Operations,58865.0,3.0,2022-04-07 00:00:00,12th,Full-time,Resigned,Laptop,8,5202.0,20.0,No,Poor
+EMP0089,  Alexander Wright ,47.0,Female,Delhi,Operations,100894.0,6.0,2019-04-17 00:00:00,High School,Intern,On Leave,Laptop,7,7037.0,15.0,No,Poor
+EMP0090,Benjamin Lopez,54.0,Female,Pune,HR,45616.0,11.0,2022-06-10 00:00:00,Post Graduate,Full-time,Active,Headphones,9,12807.0,22.0,No,Good
+EMP0091,Elijah Hill,36.0,Female,Hyderabad,Finance,51949.0,20.0,2019-08-23 00:00:00,Post Graduate,Full-time,Inactive,Software License,8,30505.0,36.0,No,Average
+EMP0092,Daniel Scott,41.0,Male,Jaipur,Data Analytics,64572.0,10.0,2022-12-07 00:00:00,Diploma,Full-time,On Leave,Headphones,2,20442.0,,No,Excellent
+EMP0093,Henry Green,24.0,Male,Mumbai,Customer Support,121662.0,15.0,2021-03-21 00:00:00,High School,Full-time,Resigned,Software License,10,42818.0,12.0,No,Poor
+EMP0094,Owen Adams,53.0,Female,Mumbai,Operations,64547.0,3.0,2018-09-11 00:00:00,High School,Part-time,Active,Phone,8,28897.0,33.0,Yes,Average
+EMP0095,Sebastian Baker,44.0,Female,Pune,Sales,99158.0,11.0,2022-05-06 00:00:00,Graduate,Contract,Active,Headphones,7,18721.0,16.0,Yes,Average
+EMP0096,Jack Nelson,26.0,Male,Pune,IT,177761.0,13.0,2025-06-11 00:00:00,Post Graduate,Full-time,On Leave,Headphones,7,42271.0,21.0,Yes,Excellent
+EMP0097,Samuel Carter,48.0,Male,Pune,IT,"$75,000",6.0,2022-01-22 00:00:00,Post Graduate,Contract,Resigned,Phone,4,9115.0,9.0,Yes,Average
+EMP0098,Matthew Mitchell,27.0,Male,Pune,Finance,158087.0,20.0,2024-01-20 00:00:00,12th,Part-time,Inactive,Phone,10,10948.0,28.0,Yes,Poor
+EMP0099,Leo Perez,44.0,Female,Jaipur,HR,87267.0,18.0,2022-12-25 00:00:00,Post Graduate,Contract,Resigned,Software License,4,24206.0,36.0,No,Poor
+EMP0100,Theodore Roberts,39.0,Female,BANGALORE,HR,125105.0,20.0,2023-08-22 00:00:00,Post Graduate,Contract,Active,Keyboard,8,24427.0,35.0,Yes,Excellent
+EMP0101,Sofia Turner,39.0,Female,Jaipur,Finance,46987.0,14.0,2019-10-19 00:00:00,Graduate,Part-time,Resigned,Tablet,1,27290.0,3.0,No,Average
+EMP0102,Camila Phillips,36.0,Female,Hyderabad,Sales,126231.0,11.0,2018-12-01 00:00:00,Graduate,Contract,Inactive,Not Available,1,18900.0,30.0,Yes,Poor
+EMP0103,Penelope Campbell,49.0,Male,Chennai,HR,26376.0,5.0,2018-11-21 00:00:00,High School,Intern,Active,Software License,5,15673.0,19.0,Yes,Excellent
+EMP0104,Layla Parker,36.0,Female,Mumbai,Marketing,135054.0,16.0,2025-03-02 00:00:00,High School,Full-time,Inactive,Keyboard,3,19188.0,27.0,Yes,Average
+EMP0105,Mila Evans,36.0,Male,Mumbai,Operations,174596.0,3.0,2022-09-03 00:00:00,High School,Full-time,Resigned,Software License,8,2953.0,40.0,,Average
+EMP0106,Nora Edwards,37.0,Male,Pune,HR,29257.0,4.0,2022-01-02 00:00:00,High School,Contract,Inactive,Laptop,6,35883.0,21.0,Yes,Poor
+EMP0107,Hazel Collins,51.0,Male,Jaipur,Sales,72783.0,10.0,2019-07-07 00:00:00,Post Graduate,Full-time,Inactive,Laptop,6,20421.0,32.0,No,Poor
+EMP0108,Luna Stewart,37.0,Male,Chennai,Operations,34599.0,2.0,2026-06-13 00:00:00,Diploma,Contract,Active,Software License,6,28736.0,25.0,No,Poor
+EMP0109,Ellie Sanchez,42.0,Female,Pune,IT,73973.0,3.0,2023-07-26 00:00:00,12th,Full-time,Resigned,Headphones,3,35848.0,18.0,No,Excellent
+EMP0110,Violet Morris,26.0,Female,Chennai,Data Analytics,5000,20.0,2025-05-31 00:00:00,12th,Part-time,Resigned,Tablet,8,2875.0,22.0,No,Average
+EMP0111,Lillian Rogers,24.0,Female,Pune,finance,44671.0,1.0,2025-07-12 00:00:00,Post Graduate,Intern,Active,Phone,2,15566.0,23.0,No,Poor
+EMP0112,Aurora Reed,57.0,Male,Jaipur,Operations,33489.0,12.0,2024-10-14 00:00:00,12th,Full-time,Inactive,Headphones,6,26185.0,20.0,No,Good
+EMP0113,Natalie Cook,28.0,Male,Jaipur,Customer Support,31793.0,18.0,2026-04-02 00:00:00,Graduate,Contract,On Leave,Keyboard,8,14162.0,39.0,No,Poor
+EMP0114,Hannah Morgan,33.0,Male,Jaipur,Finance,57148.0,15.0,2019-07-10 00:00:00,Graduate,Contract,On Leave,Keyboard,2,36144.0,34.0,No,Average
+EMP0115,Brooklyn Bell,31.0,Male,Mumbai,HR,70636.0,5.0,2022-01-20 00:00:00,Post Graduate,Intern,Active,Tablet,0,37604.0,23.0,No,Good
+EMP0116,Leah Murphy,26.0,Female,Jaipur,Customer Support,42235.0,14.0,2021-06-20 00:00:00,High School,Full-time,Inactive,Tablet,2,29589.0,29.0,No,Good
+EMP0117,Zoe Bailey,56.0,Male,Kolkata,Sales,179084.0,4.0,2020-01-16 00:00:00,High School,Part-time,,Phone,3,21245.0,14.0,No,Average
+EMP0118,Stella Rivera,26.0,Female,Bangalore,IT,90694.0,20.0,2020-03-15 00:00:00,High School,Full-time,Inactive,Headphones,10,10205.0,10.0,No,Excellent
+EMP0119,Lucy Cooper,22.0,Female,Hyderabad,Customer Support,46292.0,20.0,2018-07-06 00:00:00,Graduate,Intern,On Leave,Keyboard,5,31750.0,15.0,No,Average
+EMP0120,  Anna Richardson ,50.0,Male,Bangalore,Data Analytics,44129.0,14.0,2025-09-21 00:00:00,12th,Intern,Inactive,Tablet,10,9515.0,20.0,No,Average
+EMP0121,Maya Cox,46.0,Male,Pune,HR,59279.0,15.0,2022-02-26 00:00:00,Graduate,Contract,Resigned,Phone,3,6444.0,3.0,No,Poor
+EMP0122,Naomi Howard,47.0,Female,Amritsar,Operations,90082.0,7.0,2019-10-17 00:00:00,Post Graduate,Intern,Resigned,Monitor,5,32695.0,1.0,Yes,Poor
+EMP0123,Elena Ward,53.0,Male,Amritsar,Operations,144860.0,2.0,2020-09-13 00:00:00,Graduate,Contract,Resigned,Headphones,8,18826.0,34.0,Yes,Excellent
+EMP0124,Sarah Torres,48.0,Female,Kolkata,Operations,60110.0,2.0,2024/13/40,12th,Full-time,Inactive,Tablet,9,19013.0,4.0,No,Poor
+EMP0125,Claire Peterson,56.0,Male,Bangalore,Marketing,98327.0,13.0,2024-12-27 00:00:00,Diploma,Contract,On Leave,Software License,3,13145.0,38.0,No,Excellent
+EMP0126,Arun Kumar,23.0,Female,Jaipur,Data Analytics,35201.0,5.0,2019-07-16 00:00:00,High School,Part-time,On Leave,Headphones,6,10749.0,25.0,No,Average
+EMP0127,Suresh Kumar,53.0,Female,Amritsar,IT,158618.0,16.0,2023-12-21 00:00:00,Graduate,Contract,On Leave,Keyboard,2,27398.0,37.0,yes,Excellent
+EMP0128,Ramesh Patel,51.0,Male,Delhi,Data Analytics,94607.0,6.0,2025-05-09 00:00:00,High School,Intern,Inactive,Software License,4,2169.0,36.0,Yes,Good
+EMP0129,,22.0,Female,Bangalore,Customer Support,140615.0,7.0,2021-07-08 00:00:00,12th,Intern,Active,Keyboard,3,34092.0,13.0,No,Poor
+EMP0130,Ravi Kumar,54.0,Male,Jaipur,Operations,123782.0,18.0,2021-07-09 00:00:00,Diploma,Contract,Resigned,Phone,4,18384.0,35.0,No,Good
+EMP0131,Sanjay Gupta,40.0,Male,Jaipur,Operations,100760.0,16.0,2025-11-27 00:00:00,Diploma,Contract,On Leave,Laptop,10,44443.0,34.0,No,Poor
+EMP0132,Manoj Sharma,43.0,Male,Chennai,Marketing,63397.0,12.0,2021-04-04 00:00:00,12th,Contract,Resigned,Phone,4,35396.0,17.0,No,Good
+EMP0133,Sunil Verma,27.0,Male,Delhi,HR,85000 INR,8.0,2020-09-07 00:00:00,Graduate,Full-time,Resigned,Tablet,8,6689.0,8.0,Yes,Good
+EMP0134,Ajay Singh,47.0,Male,Chennai,Operations,149701.0,10.0,2023-05-10 00:00:00,Graduate,Full-time,Inactive,Headphones,1,11573.0,26.0,Yes,Excellent
+EMP0135,Vivek Mishra,46.0,?,Delhi,Sales,154861.0,10.0,2020-02-03 00:00:00,High School,Full-time,On Leave,Tablet,8,42129.0,34.0,No,Good
+EMP0136,Pankaj Jain,53.0,Male,Mumbai,Operations,147688.0,6.0,2021-01-22 00:00:00,12th,Contract,Inactive,Laptop,6,19434.0,36.0,Yes,Good
+EMP0137,Gaurav Mehta,46.0,Female,Mumbai,Customer Support,137119.0,4.0,2023-10-12 00:00:00,Post Graduate,Part-time,Resigned,Tablet,4,547.0,16.0,No,Good
+EMP0138,Tarun Arora,49.0,Female,Amritsar,Sales,94990.0,9.0,2021-09-12 00:00:00,Diploma,Part-time,Active,Keyboard,2,12500.50,19.0,Yes,Poor
+EMP0139,Varun Gupta,53.0,Male,Chennai,Operations,106521.0,20.0,2025-09-28 00:00:00,Post Graduate,Part-time,Inactive,Monitor,3,29917.0,38.0,No,Poor
+EMP0140,Rohit Sharma,56.0,Male,Hyderabad,Marketing,148424.0,17.0,2024-01-11 00:00:00,12th,Contract,Active,Headphones,2,4147.0,35.0,Yes,Good
+EMP0141,Ayesha Khan,31.0,Female,Mumbai,HR,111014.0,19.0,2023-11-02 00:00:00,12th,Full-time,Resigned,Software License,1,29816.0,8.0,No,Poor
+EMP0142,Fatima Ali,57.0,Female,Chennai,Sales,40135.0,13.0,2024-04-07 00:00:00,Diploma,Full-time,Inactive,Headphones,2,3068.0,27.0,No,Excellent
+EMP0143,Sara Ahmed,55.0,Female,Delhi,IT,40795.0,14.0,2018-10-10 00:00:00,Post Graduate,Part-time,Resigned,Tablet,7,29495.0,24.0,No,Excellent
+EMP0144,Zainab Sheikh,55.0,Female,Mumbai,Finance,,18.0,2025-04-30 00:00:00,12th,Part-time,Inactive,Software License,1,49656.0,1.0,No,Poor
+EMP0145,Sana Khan,55.0,Female,Hyderabad,HR,136182.0,15.0,2023-12-19 00:00:00,Diploma,Part-time,On Leave,Phone,2,2211.0,26.0,Yes,Good
+EMP0146,Hina Qureshi,34.0,Male,JAIPUR,Sales,42639.0,8.0,2019-02-18 00:00:00,Graduate,Intern,Resigned,Phone,9,14338.0,3.0,Yes,Average
+EMP0147,Mariam Hussain,35.0,Female,Hyderabad,IT,176023.0,5.0,2021-07-30 00:00:00,High School,Part-time,Resigned,Tablet,5,4094.0,35.0,Yes,Poor
+EMP0148,Aaliya Khan,56.0,Female,Kolkata,Operations,950000,14.0,2018-07-12 00:00:00,12th,Part-time,On Leave,Monitor,3,49541.0,34.0,No,Good
+EMP0149,Noor Fatima,35.0,Male,Jaipur,Sales,103836.0,18.0,2025-12-08 00:00:00,12th,Intern,Inactive,Monitor,4,16811.0,13.0,No,Excellent
+EMP0150,Anam Khan,49.0,Male,Delhi,IT,122275.0,13.0,2019-01-14 00:00:00,High School,Full-time,active,Phone,10,47568.0,35.0,Yes,Poor
+EMP0151,Imran Khan,34.0,Male,Hyderabad,HR,112284.0,4.0,2021-05-26 00:00:00,12th,Part-time,Inactive,Monitor,4,36281.0,20.0,No,Poor
+EMP0152,  Omar Farooq ,50.0,Female,Chennai,IT,164893.0,12.0,2025-04-11 00:00:00,High School,Intern,Resigned,Laptop,8,21086.0,13.0,No,Average
+EMP0153,Ali Hassan,47.0,Male,Bangalore,Sales,36984.0,9.0,2024-04-23 00:00:00,High School,Intern,On Leave,Phone,4,21718.0,14.0,No,Good
+EMP0154,Usman Ahmed,52.0,Female,Chennai,Data Analytics,169347.0,16.0,2025-05-05 00:00:00,12th,Part-time,On Leave,Phone,3,47306.0,34.0,No,Good
+EMP0155,Hamza Sheikh,55.0,Male,Mumbai,Sales,40396.0,1.0,2023-11-17 00:00:00,12th,Part-time,Inactive,Laptop,3,699.0,13.0,No,Average
+EMP0156,Bilal Hussain,24.0,Female,Delhi,Sales,151669.0,5 years,2025-05-24 00:00:00,High School,Intern,Active,Laptop,9,47429.0,17.0,No,Excellent
+EMP0157,Sameer Khan,53.0,Male,Mumbai,Finance,137872.0,8.0,2020-01-05 00:00:00,Post Graduate,Contract,On Leave,Tablet,three,5278.0,23.0,No,Poor
+EMP0158,Faizan Ali,57.0,Male,,Marketing,88755.0,2.0,2025-10-26 00:00:00,Graduate,Intern,Resigned,Monitor,9,31295.0,3.0,Yes,Good
+EMP0159,Adnan Qureshi,26.0,Female,Amritsar,Marketing,156034.0,17.0,2022-11-13 00:00:00,Graduate,Part-time,Inactive,Software License,10,31262.0,17.0,Yes,Excellent
+EMP0160,Salman Ahmed,38.0,Male,Bangalore,operations,167352.0,1.0,2024-04-27 00:00:00,Post Graduate,Part-time,Resigned,Laptop,5,10746.0,36.0,Yes,Poor
+EMP0161,Maria Garcia,55.0,Male,Mumbai,Operations,111960.0,2.0,2022-04-22 00:00:00,Graduate,Intern,Inactive,Software License,2,22421.0,38.0,No,Average
+EMP0162,Juan Rodriguez,22.0,Female,Hyderabad,Operations,96651.0,18.0,2023-01-20 00:00:00,12th,Intern,Inactive,Keyboard,10,43397.0,24.0,Yes,Average
+EMP0163,Carlos Hernandez,36.0,Female,Bangalore,Customer Support,44269.0,5.0,2018-12-03 00:00:00,12th,Contract,On Leave,Laptop,2,440.0,19.0,No,Average
+EMP0164,Luis Martinez,38.0,Male,Bangalore,Customer Support,51799.0,15.0,2019-06-27 00:00:00,High School,Intern,Active,Laptop,2,23294.0,35.0,Yes,Average
+EMP0165,Jose Gonzalez,45.0,Female,Kolkata,Marketing,28235.0,18.0,2021-04-10 00:00:00,Post Graduate,Part-time,Resigned,Phone,3,17723.0,-10,No,Poor
+EMP0166,Ana Lopez,30.0,Female,Chennai,Customer Support,41585.0,10.0,2019-11-16 00:00:00,12th,Full-time,On Leave,Tablet,4,47344.0,40.0,No,Good
+EMP0167,Sofia Rodriguez,50.0,Female,Delhi,Customer Support,53042.0,11.0,2019-07-09 00:00:00,High School,Intern,On Leave,Monitor,6,28320.0,38.0,n/a,Average
+EMP0168,Elena Martinez,41.0,Female,Bangalore,Customer Support,77652.0,11.0,2023-05-17 00:00:00,Diploma,Intern,Inactive,Tablet,7,18469.0,25.0,No,Excellent
+EMP0169,Isabella Gonzalez,57.0,Male,Ahmedabad,Sales,77376.0,15.0,2024-08-22 00:00:00,Post Graduate,Intern,On Leave,Software License,2,26913.0,31.0,Yes,Average
+EMP0170,Lucia Perez,36.0,Male,Kolkata,Customer Support,91238.0,3.0,2025-05-21 00:00:00,12th,Intern,Resigned,Headphones,9,45431.0,26.0,Yes,Average
+EMP0171,Miguel Sanchez,55.0,Male,Pune,Finance,47277.0,20.0,2019-03-24 00:00:00,Graduate,Intern,On Leave,Software License,7,7043.0,0.0,Yes,Average
+EMP0172,Diego Ramirez,,Male,Jaipur,Operations,158870.0,13.0,2026-05-18 00:00:00,12th,Part-time,On Leave,Laptop,8,6951.0,18.0,No,Excellent
+EMP0173,Carlos Torres,28.0,Female,Pune,Data Analytics,62139.0,7.0,2021-11-27 00:00:00,High School,Intern,On Leave,Monitor,2,28815.0,28.0,No,Excellent
+EMP0174,Javier Flores,40.0,Male,Delhi,Operations,36713.0,4.0,2025-12-21 00:00:00,Post Graduate,Part-time,INACTIVE,Headphones,3,21791.0,35.0,No,Poor
+EMP0175,Mateo Rivera,35.0,Male,Bangalore,Customer Support,131180.0,13.0,2025-01-23 00:00:00,Graduate,Part-time,Resigned,Headphones,7,25582.0,0.0,Yes,Good
+EMP0176,Laura Gomez,38.0,Male,Ahmedabad,Finance,41400.0,12.0,2024-06-22 00:00:00,Diploma,Part-time,Resigned,Laptop,5,44055.0,31.0,No,Poor
+EMP0177,Gabriela Diaz,46.0,Female,Pune,Data Analytics,178879.0,20.0,2019-04-13 00:00:00,Post Graduate,Contract,Active,Keyboard,3,20624.0,7.0,Yes,Average
+EMP0178,  Valentina Cruz ,28.0,Male,Ahmedabad,Customer Support,72984.0,14.0,2022-03-10 00:00:00,High School,Part-time,Resigned,Monitor,3,31994.0,40.0,Yes,Good
+EMP0179,Camila Morales,52.0,Male,Pune,Data Analytics,100716.0,20.0,2019-07-29 00:00:00,Graduate,Contract,Active,Monitor,3,12887.0,24.0,No,Poor
+EMP0180,Daniela Reyes,52.0,Female,Jaipur,Finance,133955.0,3.0,2025-12-18 00:00:00,High School,Full-time,Inactive,Tablet,1,18112.0,14.0,No,Good
+EMP0181,Samantha Wilson,50.0,Female,Ahmedabad,Marketing,173281.0,19.0,15 Aug 2022,Graduate,Contract,On Leave,Headphones,1,49907.0,28.0,Yes,Poor
+EMP0182,Jennifer Brown,27.0,Male,Jaipur,IT,89888.0,12.0,2021-05-04 00:00:00,Graduate,Intern,Active,Software License,4,"₹45,000",37.0,No,Poor
+EMP0183,Jessica Davis,31.0,Male,Delhi,Operations,61499.0,18.0,2020-04-26 00:00:00,Diploma,Part-time,On Leave,Keyboard,5,19061.0,36.0,No,Excellent
+EMP0184,Ashley Miller,29.0,Female,Bangalore,Finance,132897.0,8.0,2018-08-31 00:00:00,Post Graduate,Contract,Inactive,Software License,7,32177.0,9.0,No,Poor
+EMP0185,Amanda Moore,45.0,Male,Kolkata,IT,143486.0,12.0,2018-11-06 00:00:00,12th,Intern,On Leave,Headphones,1,48119.0,5.0,No,Average
+EMP0186,Megan Taylor,25.0,Male,Kolkata,HR,165096.0,16.0,2022-06-18 00:00:00,Diploma,Contract,On Leave,Tablet,9,37975.0,8.0,No,Average
+EMP0187,Lauren Anderson,24.0,Female,Delhi,Marketing,37043.0,6.0,2019-02-12 00:00:00,12th,Intern,Active,Monitor,4,45227.0,8.0,No,Good
+EMP0188,Rachel Thomas,38.0,Female,Chennai,Marketing,49468.0,12.0,2025-05-05 00:00:00,Post Graduate,Full-time,Resigned,Keyboard,5,47678.0,14.0,No,Excellent
+EMP0189,Rebecca Jackson,27.0,Female,Mumbai,,25284.0,19.0,2020-05-24 00:00:00,Post Graduate,Intern,Active,Laptop,6,8003.0,27.0,Yes,Poor
+EMP0190,Nicole White,25.0,Male,Mumbai,Marketing,85017.0,11.0,2022-04-19 00:00:00,Diploma,Contract,Inactive,Monitor,3,42146.0,9.0,Yes,Excellent
+EMP0191,Melissa Harris,31.0,Male,Bangalore,Customer Support,140369.0,20.0,2021-12-09 00:00:00,12th,Part-time,Active,Laptop,3,49412.0,7.0,No,Average
+EMP0192,Stephanie Martin,48.0,Male,Chennai,Marketing,107445.0,8.0,2019-07-27 00:00:00,High School,Contract,Active,Software License,5,13564.0,33.0,Yes,Poor
+EMP0193,Kimberly Thompson,39.0,Female,Kolkata,Marketing,39304.0,8.0,2020-09-07 00:00:00,12th,Full-time,Active,Tablet,6,8749.0,24.0,No,Average
+EMP0194,Michelle Garcia,55.0,Male,Delhi,Marketing,70290.0,1.0,2023-04-14 00:00:00,Diploma,Part-time,Active,Laptop,7,33301.0,10%,No,Poor
+EMP0195,Christina Martinez,46.0,Male,Chennai,Marketing,46607.0,10.0,2025-03-08 00:00:00,Graduate,Part-time,Inactive,Headphones,6,25706.0,37.0,Yes,Average
+EMP0196,Brittany Robinson,48.0,Male,Mumbai,Customer Support,87557.0,4.0,2018-08-26 00:00:00,12th,Full-time,On Leave,Keyboard,3,7927.0,0.0,Yes,Excellent
+EMP0197,Kayla Clark,31.0,Female,Bangalore,Operations,155131.0,5.0,2021-11-21 00:00:00,Diploma,Full-time,Active,Tablet,7,17924.0,33.0,Yes,Average
+EMP0198,Mackenzie Lewis,57.0,Female,Ahmedabad,Operations,45203.0,2.0,2023-07-26 00:00:00,12th,Part-time,On Leave,Phone,5,6843.0,36.0,Yes,Good
+EMP0199,Madison Walker,53.0,Male,Hyderabad,Sales,25673.0,16.0,2018-06-30 00:00:00,Diploma,Intern,Inactive,Phone,1,36332.0,26.0,Yes,Average
+EMP0200,Taylor Hall,36.0,Female,Chennai,Marketing,134119.0,19.0,2026-01-29 00:00:00,Diploma,Full-time,Active,Phone,4,33901.0,2.0,No,Excellent
