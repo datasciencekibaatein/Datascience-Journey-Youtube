@@ -1,0 +1,501 @@
+order_id,order_date,city,cuisine,customer_age,customer_type,payment_method,order_value,discount_pct,distance_km,delivery_time_min,rating
+1001,2025-01-03,Bangalore,North Indian,18,Returning,UPI,317,10,9.2,30,3.9
+1002,2025-01-04,Bangalore,Fast Food,48,Returning,UPI,219,0,2.0,17,4.6
+1003,2025-01-04,Mumbai,Biryani,19,Returning,Wallet,592,15,4.4,26,3.5
+1004,2025-01-05,Hyderabad,Fast Food,18,Returning,Card,565,5,5.9,25,4.0
+1005,2025-01-06,Bangalore,Biryani,38,Returning,UPI,465,15,8.5,35,3.1
+1006,2025-01-06,Delhi,Fast Food,50,Returning,UPI,786,10,7.8,29,4.4
+1007,2025-01-07,Chennai,Fast Food,41,New,UPI,224,5,4.6,20,4.9
+1008,2025-01-08,Hyderabad,Biryani,35,New,UPI,705,0,5.0,23,4.3
+1009,2025-01-09,Chennai,North Indian,35,Returning,UPI,344,0,9.2,33,4.2
+1010,2025-01-09,Hyderabad,Chinese,37,Returning,UPI,932,20,4.6,22,4.3
+1011,2025-01-10,Bangalore,North Indian,36,New,Cash,1107,20,5.3,30,4.5
+1012,2025-01-11,Mumbai,Desserts,32,New,UPI,228,10,9.4,34,4.1
+1013,2025-01-13,Chennai,Desserts,31,New,Cash,252,0,15.0,47,2.7
+1014,2025-01-13,Chennai,North Indian,29,New,Cash,665,5,5.6,26,4.7
+1015,2025-01-14,Delhi,Fast Food,24,Returning,UPI,1772,15,6.5,29,4.0
+1016,2025-01-14,Delhi,Desserts,28,Returning,Card,316,15,7.7,27,3.7
+1017,2025-01-14,Mumbai,North Indian,18,Returning,UPI,457,0,9.3,34,3.8
+1018,2025-01-17,Hyderabad,Fast Food,29,Returning,Cash,172,0,8.6,32,3.2
+1019,2025-01-17,Chennai,Biryani,22,Returning,UPI,513,15,3.3,20,3.9
+1020,2025-01-19,Delhi,North Indian,21,Returning,Card,331,5,5.8,29,4.2
+1021,2025-01-19,Bangalore,Fast Food,31,Returning,Card,327,0,8.7,34,4.1
+1022,2025-01-20,Mumbai,South Indian,41,Returning,UPI,782,0,10.5,43,3.8
+1023,2025-01-20,Chennai,Desserts,37,Returning,UPI,183,10,4.4,23,4.4
+1024,2025-01-22,Hyderabad,Desserts,18,New,Card,465,20,5.8,34,3.7
+1025,2025-01-22,Hyderabad,Desserts,22,Returning,Card,284,25,6.2,26,4.3
+1026,2025-01-23,Mumbai,Chinese,38,New,UPI,379,10,4.9,21,4.3
+1027,2025-01-25,Mumbai,Biryani,22,Returning,Card,736,10,5.7,28,3.5
+1028,2025-01-25,Mumbai,Biryani,28,New,UPI,601,0,0.9,20,4.2
+1029,2025-01-25,Delhi,South Indian,34,New,Card,528,10,15.0,44,4.1
+1030,2025-01-25,Chennai,Biryani,22,Returning,UPI,798,5,4.3,22,5.0
+1031,2025-01-25,Hyderabad,North Indian,31,New,Cash,389,10,4.5,21,4.8
+1032,2025-01-28,Chennai,Fast Food,19,Returning,UPI,310,5,1.4,16,5.0
+1033,2025-01-28,Chennai,North Indian,25,New,UPI,277,0,1.2,15,4.7
+1034,2025-01-30,Bangalore,North Indian,33,Returning,UPI,311,0,6.4,33,4.8
+1035,2025-01-31,Hyderabad,North Indian,18,Returning,UPI,1702,5,8.7,33,5.0
+1036,2025-01-31,Chennai,Fast Food,34,Returning,Card,715,0,7.8,37,3.1
+1037,2025-02-03,Hyderabad,South Indian,30,New,UPI,222,0,2.8,18,4.7
+1038,2025-02-03,Delhi,Fast Food,34,New,Cash,225,25,7.5,34,4.0
+1039,2025-02-06,Mumbai,North Indian,32,New,UPI,561,5,4.5,24,4.2
+1040,2025-02-06,Delhi,South Indian,41,New,UPI,523,10,3.8,28,4.4
+1041,2025-02-07,Chennai,Fast Food,31,Returning,UPI,523,20,1.8,11,4.8
+1042,2025-02-07,Bangalore,Biryani,27,Returning,UPI,460,25,3.0,15,4.3
+1043,2025-02-08,Delhi,South Indian,31,Returning,UPI,386,10,6.5,36,3.9
+1044,2025-02-08,Bangalore,Fast Food,34,Returning,UPI,473,20,5.8,24,4.9
+1045,2025-02-08,Bangalore,Biryani,30,Returning,UPI,536,5,5.3,23,4.5
+1046,2025-02-09,Mumbai,Fast Food,30,Returning,UPI,150,5,0.8,10,5.0
+1047,2025-02-09,Delhi,North Indian,24,New,Card,407,5,5.3,30,4.0
+1048,2025-02-10,Bangalore,North Indian,25,Returning,Card,308,15,3.3,15,4.9
+1049,2025-02-11,Bangalore,Biryani,19,Returning,UPI,558,15,5.8,27,3.7
+1050,2025-02-13,Hyderabad,North Indian,44,Returning,UPI,1730,5,9.5,35,3.8
+1051,2025-02-13,Bangalore,Biryani,20,New,Wallet,609,0,3.6,25,4.3
+1052,2025-02-13,Chennai,Fast Food,24,Returning,Card,355,10,5.1,22,3.9
+1053,2025-02-13,Bangalore,Desserts,24,Returning,Card,488,0,13.7,48,3.1
+1054,2025-02-14,Bangalore,Biryani,37,Returning,UPI,641,10,5.7,22,4.6
+1055,2025-02-15,Chennai,Desserts,28,Returning,Cash,390,15,4.7,33,4.1
+1056,2025-02-16,Mumbai,South Indian,40,Returning,Cash,537,15,2.8,18,4.9
+1057,2025-02-16,Delhi,Biryani,25,Returning,Card,1302,15,7.6,31,3.8
+1058,2025-02-16,Delhi,Chinese,32,New,Wallet,258,20,2.5,25,4.4
+1059,2025-02-17,Hyderabad,Chinese,23,Returning,UPI,532,10,9.7,34,3.7
+1060,2025-02-17,Bangalore,Fast Food,47,New,UPI,269,15,7.0,36,4.3
+1061,2025-02-17,Hyderabad,Biryani,20,Returning,Cash,663,10,3.4,19,5.0
+1062,2025-02-18,Delhi,Desserts,32,Returning,Cash,213,0,2.8,22,4.6
+1063,2025-02-19,Delhi,Biryani,35,New,UPI,428,0,2.9,17,5.0
+1064,2025-02-19,Delhi,Chinese,33,Returning,UPI,377,0,1.2,10,4.9
+1065,2025-02-20,Mumbai,Chinese,29,New,UPI,667,5,6.3,29,4.5
+1066,2025-02-21,Bangalore,Fast Food,29,Returning,UPI,618,10,0.9,17,4.6
+1067,2025-02-21,Mumbai,North Indian,30,Returning,Cash,258,20,4.6,18,4.1
+1068,2025-02-21,Mumbai,North Indian,29,Returning,Card,463,0,4.4,22,4.5
+1069,2025-02-22,Chennai,South Indian,38,New,UPI,297,0,3.9,27,3.8
+1070,2025-02-24,Mumbai,South Indian,48,Returning,UPI,232,25,6.3,30,5.0
+1071,2025-02-25,Bangalore,South Indian,26,Returning,UPI,370,0,3.4,19,4.4
+1072,2025-02-26,Hyderabad,North Indian,19,New,UPI,393,10,5.4,23,4.7
+1073,2025-02-27,Mumbai,North Indian,29,Returning,Card,1346,10,9.7,44,3.7
+1074,2025-02-28,Bangalore,North Indian,51,New,Wallet,549,10,6.7,23,3.8
+1075,2025-03-01,Chennai,Desserts,24,Returning,Cash,173,0,3.7,21,3.6
+1076,2025-03-01,Chennai,Chinese,43,New,UPI,333,0,4.8,18,4.9
+1077,2025-03-01,Delhi,Chinese,43,Returning,Cash,681,0,3.9,27,5.0
+1078,2025-03-01,Chennai,Fast Food,26,Returning,Cash,1046,10,4.3,23,4.1
+1079,2025-03-02,Mumbai,North Indian,35,New,Cash,221,10,5.5,26,3.5
+1080,2025-03-02,Mumbai,Desserts,43,New,UPI,138,0,1.8,28,4.1
+1081,2025-03-02,Mumbai,Biryani,27,New,UPI,1198,10,1.5,13,4.3
+1082,2025-03-03,Chennai,North Indian,28,Returning,UPI,538,20,2.6,25,4.0
+1083,2025-03-05,Mumbai,Chinese,25,New,UPI,291,0,6.5,27,4.5
+1084,2025-03-10,Mumbai,Biryani,22,Returning,UPI,656,10,7.0,29,4.2
+1085,2025-03-11,Bangalore,Desserts,25,New,UPI,100,15,7.6,42,3.4
+1086,2025-03-11,Delhi,Chinese,20,New,UPI,431,0,2.7,18,4.8
+1087,2025-03-12,Delhi,Fast Food,30,Returning,Card,473,5,5.1,19,4.8
+1088,2025-03-13,Delhi,North Indian,24,New,UPI,684,10,3.8,23,4.2
+1089,2025-03-14,Delhi,Desserts,32,Returning,UPI,204,20,4.4,22,4.5
+1090,2025-03-18,Delhi,North Indian,18,Returning,Wallet,469,20,3.7,23,4.6
+1091,2025-03-18,Delhi,Desserts,33,Returning,Wallet,213,10,5.6,25,4.5
+1092,2025-03-19,Bangalore,Fast Food,37,Returning,Cash,458,15,3.1,29,4.2
+1093,2025-03-21,Delhi,Fast Food,18,Returning,Wallet,273,5,9.1,37,4.5
+1094,2025-03-21,Mumbai,Chinese,33,New,Card,358,10,9.2,31,4.4
+1095,2025-03-21,Chennai,North Indian,40,New,Wallet,288,10,6.4,28,4.0
+1096,2025-03-22,Mumbai,North Indian,20,New,UPI,605,0,8.5,30,3.9
+1097,2025-03-24,Bangalore,North Indian,43,Returning,UPI,664,15,1.7,15,4.4
+1098,2025-03-25,Delhi,North Indian,33,New,UPI,406,10,9.4,32,4.4
+1099,2025-03-26,Delhi,Biryani,24,Returning,UPI,525,5,6.0,35,3.7
+1100,2025-03-26,Delhi,South Indian,30,Returning,UPI,213,20,3.2,17,4.4
+1101,2025-03-27,Delhi,North Indian,34,Returning,Card,395,0,3.0,22,4.9
+1102,2025-03-28,Mumbai,Desserts,31,Returning,Cash,2198,5,11.3,39,3.9
+1103,2025-03-28,Delhi,Biryani,34,New,Card,1678,0,7.7,27,4.8
+1104,2025-03-30,Delhi,Desserts,23,Returning,UPI,196,15,4.4,24,4.7
+1105,2025-03-31,Delhi,Desserts,31,Returning,Cash,623,15,1.7,18,4.0
+1106,2025-03-31,Mumbai,North Indian,19,New,Card,707,5,9.7,38,3.8
+1107,2025-04-01,Delhi,Chinese,29,New,UPI,488,15,2.2,10,5.0
+1108,2025-04-01,Mumbai,Biryani,23,Returning,Card,1139,5,3.8,17,4.1
+1109,2025-04-02,Bangalore,Fast Food,24,Returning,UPI,483,15,4.4,27,4.4
+1110,2025-04-05,Bangalore,North Indian,40,Returning,UPI,538,10,3.0,16,4.6
+1111,2025-04-05,Delhi,Biryani,39,Returning,Wallet,504,5,4.2,23,3.6
+1112,2025-04-05,Hyderabad,North Indian,35,Returning,UPI,783,25,4.8,19,4.6
+1113,2025-04-06,Bangalore,North Indian,21,Returning,UPI,740,0,4.2,25,3.9
+1114,2025-04-07,Delhi,Fast Food,27,Returning,Cash,308,0,5.8,30,3.6
+1115,2025-04-12,Chennai,Fast Food,40,New,Card,226,10,11.5,44,3.7
+1116,2025-04-14,Chennai,Fast Food,31,Returning,UPI,373,25,1.8,21,3.6
+1117,2025-04-16,Delhi,North Indian,49,Returning,UPI,2180,5,5.3,32,3.8
+1118,2025-04-17,Mumbai,Biryani,33,Returning,UPI,501,0,2.2,13,5.0
+1119,2025-04-17,Hyderabad,South Indian,32,Returning,Card,713,5,1.6,13,5.0
+1120,2025-04-18,Hyderabad,North Indian,28,Returning,UPI,368,10,8.2,36,3.5
+1121,2025-04-19,Delhi,Biryani,31,Returning,UPI,506,0,5.6,31,4.7
+1122,2025-04-19,Delhi,Desserts,29,Returning,Wallet,331,15,1.6,13,4.3
+1123,2025-04-23,Mumbai,Biryani,36,Returning,Card,756,25,4.2,20,4.3
+1124,2025-04-23,Mumbai,Biryani,38,Returning,UPI,188,10,2.6,16,4.1
+1125,2025-04-24,Bangalore,Fast Food,24,New,Card,311,5,4.3,16,4.8
+1126,2025-04-25,Mumbai,Fast Food,19,Returning,Card,449,5,7.1,25,4.9
+1127,2025-04-25,Mumbai,North Indian,18,New,UPI,775,0,6.7,24,3.9
+1128,2025-04-26,Hyderabad,Chinese,34,Returning,UPI,345,20,3.7,20,3.6
+1129,2025-04-27,Delhi,Chinese,21,Returning,Cash,185,5,8.4,34,4.5
+1130,2025-04-28,Mumbai,South Indian,18,Returning,UPI,540,5,10.2,39,4.5
+1131,2025-04-28,Hyderabad,Fast Food,33,Returning,Card,2417,15,7.2,28,3.3
+1132,2025-04-29,Chennai,Chinese,50,Returning,UPI,252,5,3.3,18,4.8
+1133,2025-05-02,Bangalore,North Indian,30,Returning,UPI,341,10,4.4,23,4.5
+1134,2025-05-02,Bangalore,North Indian,37,Returning,UPI,416,0,11.3,34,3.7
+1135,2025-05-04,Delhi,Fast Food,31,Returning,UPI,311,20,3.9,26,3.7
+1136,2025-05-07,Mumbai,North Indian,29,New,UPI,167,25,6.7,34,4.5
+1137,2025-05-07,Bangalore,Biryani,37,New,UPI,1796,10,2.9,17,4.7
+1138,2025-05-09,Delhi,Chinese,28,Returning,Cash,763,25,8.4,31,4.2
+1139,2025-05-10,Mumbai,Chinese,32,Returning,Wallet,576,0,2.7,24,4.1
+1140,2025-05-10,Mumbai,Fast Food,33,New,Cash,245,10,4.5,23,4.0
+1141,2025-05-11,Delhi,Biryani,25,New,Cash,471,10,6.6,31,3.0
+1142,2025-05-11,Mumbai,South Indian,38,New,UPI,407,10,12.6,43,3.6
+1143,2025-05-11,Delhi,Fast Food,29,Returning,Wallet,535,5,5.5,32,4.7
+1144,2025-05-11,Mumbai,Fast Food,24,New,UPI,552,5,4.1,24,4.0
+1145,2025-05-11,Delhi,South Indian,34,Returning,Wallet,294,0,3.9,24,3.7
+1146,2025-05-12,Chennai,Biryani,23,New,Wallet,535,5,8.2,35,4.2
+1147,2025-05-12,Bangalore,Biryani,30,Returning,Card,634,0,6.3,26,4.6
+1148,2025-05-13,Bangalore,Fast Food,30,New,Wallet,787,15,7.1,28,4.0
+1149,2025-05-14,Hyderabad,Biryani,39,New,Card,708,0,10.8,42,3.6
+1150,2025-05-15,Mumbai,Biryani,34,Returning,UPI,736,0,5.0,25,4.4
+1151,2025-05-15,Delhi,Fast Food,30,New,UPI,424,10,6.0,22,4.4
+1152,2025-05-16,Bangalore,Biryani,37,New,Card,973,10,3.8,29,4.6
+1153,2025-05-16,Bangalore,Fast Food,41,New,UPI,1793,20,2.9,23,5.0
+1154,2025-05-16,Hyderabad,Fast Food,34,New,Card,277,10,3.3,20,3.7
+1155,2025-05-18,Mumbai,Fast Food,30,New,Wallet,768,5,0.6,12,5.0
+1156,2025-05-20,Delhi,Biryani,20,New,UPI,706,20,6.6,29,4.2
+1157,2025-05-20,Mumbai,North Indian,21,Returning,Cash,370,10,6.2,30,4.8
+1158,2025-05-23,Mumbai,Biryani,28,Returning,Wallet,416,0,6.5,20,4.8
+1159,2025-05-23,Bangalore,Biryani,25,Returning,Wallet,590,10,2.7,27,4.3
+1160,2025-05-24,Bangalore,North Indian,29,New,Wallet,556,20,3.3,17,4.9
+1161,2025-05-25,Mumbai,Biryani,30,Returning,Card,564,5,3.2,20,4.3
+1162,2025-05-25,Chennai,North Indian,34,Returning,Wallet,519,0,8.9,34,3.7
+1163,2025-05-26,Bangalore,South Indian,29,New,Cash,878,0,5.4,33,4.4
+1164,2025-05-26,Delhi,Biryani,34,Returning,UPI,836,0,4.9,24,4.0
+1165,2025-05-26,Delhi,North Indian,31,New,UPI,492,5,7.4,37,4.2
+1166,2025-05-26,Delhi,Biryani,18,New,Card,788,10,3.2,22,4.4
+1167,2025-05-27,Delhi,Biryani,22,Returning,UPI,1718,0,5.9,23,3.3
+1168,2025-05-28,Delhi,Chinese,29,Returning,Card,2215,25,13.5,46,3.3
+1169,2025-05-28,Delhi,North Indian,20,Returning,Card,1019,15,9.7,36,4.1
+1170,2025-05-28,Mumbai,South Indian,35,Returning,UPI,370,10,5.9,22,4.2
+1171,2025-05-28,Delhi,Fast Food,42,Returning,Card,279,20,5.1,26,3.1
+1172,2025-05-30,Chennai,Desserts,40,New,Cash,240,0,6.4,28,4.8
+1173,2025-05-31,Delhi,Fast Food,28,New,UPI,250,10,10.4,40,3.9
+1174,2025-06-02,Bangalore,South Indian,42,Returning,UPI,287,10,10.0,38,4.1
+1175,2025-06-02,Mumbai,Fast Food,31,Returning,UPI,346,20,11.4,38,3.7
+1176,2025-06-03,Chennai,Fast Food,27,Returning,UPI,217,15,5.5,29,4.4
+1177,2025-06-03,Delhi,Biryani,25,Returning,Wallet,520,0,0.9,12,5.0
+1178,2025-06-03,Mumbai,North Indian,28,Returning,UPI,2176,25,13.0,32,3.7
+1179,2025-06-07,Chennai,Biryani,27,Returning,Card,343,0,2.9,20,5.0
+1180,2025-06-07,Chennai,Fast Food,31,New,UPI,809,20,7.4,28,4.4
+1181,2025-06-08,Hyderabad,Desserts,31,Returning,UPI,406,25,0.9,16,4.2
+1182,2025-06-09,Mumbai,South Indian,30,Returning,Cash,650,0,4.9,32,5.0
+1183,2025-06-09,Delhi,Fast Food,33,Returning,Card,304,15,3.9,30,4.3
+1184,2025-06-10,Bangalore,Desserts,40,New,UPI,474,0,11.4,40,4.1
+1185,2025-06-10,Chennai,North Indian,38,Returning,UPI,276,5,5.9,23,4.3
+1186,2025-06-11,Bangalore,Desserts,18,New,UPI,481,10,4.9,27,3.9
+1187,2025-06-12,Bangalore,Fast Food,18,New,UPI,441,10,6.3,26,4.4
+1188,2025-06-13,Mumbai,North Indian,37,New,Card,579,25,0.5,15,5.0
+1189,2025-06-14,Hyderabad,South Indian,19,Returning,UPI,2400,15,3.2,17,4.5
+1190,2025-06-14,Delhi,Fast Food,28,Returning,UPI,273,10,3.5,22,4.4
+1191,2025-06-14,Mumbai,North Indian,21,New,UPI,591,20,6.9,26,4.9
+1192,2025-06-15,Mumbai,Fast Food,18,Returning,Wallet,267,25,2.4,23,4.3
+1193,2025-06-15,Bangalore,South Indian,34,Returning,Wallet,503,0,5.4,23,4.6
+1194,2025-06-16,Delhi,Fast Food,36,Returning,UPI,221,25,4.6,26,4.7
+1195,2025-06-16,Delhi,North Indian,25,New,Cash,661,0,3.3,15,4.6
+1196,2025-06-16,Bangalore,Biryani,18,Returning,UPI,296,20,3.4,24,4.5
+1197,2025-06-16,Mumbai,Desserts,26,Returning,UPI,413,0,4.5,19,4.8
+1198,2025-06-16,Bangalore,Desserts,33,New,Cash,427,0,1.2,16,4.5
+1199,2025-06-17,Delhi,Biryani,18,New,Wallet,377,5,7.5,35,4.3
+1200,2025-06-20,Mumbai,North Indian,31,Returning,Wallet,587,10,2.9,18,4.3
+1201,2025-06-21,Bangalore,Biryani,30,Returning,Card,580,5,4.1,18,4.3
+1202,2025-06-21,Delhi,North Indian,35,Returning,UPI,354,0,11.2,42,3.0
+1203,2025-06-21,Mumbai,North Indian,31,Returning,Cash,287,10,7.6,28,4.0
+1204,2025-06-21,Delhi,South Indian,22,Returning,UPI,169,20,2.1,16,4.3
+1205,2025-06-22,Delhi,Chinese,40,Returning,Card,503,5,0.5,14,4.5
+1206,2025-06-23,Chennai,Biryani,29,New,UPI,255,0,6.5,34,4.3
+1207,2025-06-25,Mumbai,Fast Food,30,Returning,Card,426,5,4.2,23,3.6
+1208,2025-06-29,Hyderabad,Chinese,23,Returning,UPI,382,0,5.4,26,3.4
+1209,2025-06-29,Mumbai,South Indian,26,Returning,UPI,555,20,7.4,33,3.7
+1210,2025-06-30,Bangalore,Desserts,23,Returning,Wallet,282,20,8.1,32,4.3
+1211,2025-07-02,Hyderabad,Chinese,29,Returning,UPI,371,10,3.7,24,4.5
+1212,2025-07-03,Bangalore,Chinese,44,New,Card,598,5,4.5,28,3.9
+1213,2025-07-05,Mumbai,North Indian,19,Returning,UPI,525,15,6.1,26,4.8
+1214,2025-07-06,Mumbai,Biryani,18,New,UPI,595,10,6.3,15,4.4
+1215,2025-07-06,Mumbai,Fast Food,42,Returning,UPI,505,20,5.4,22,4.6
+1216,2025-07-06,Chennai,North Indian,28,New,UPI,226,10,10.5,43,3.5
+1217,2025-07-06,Hyderabad,North Indian,25,New,Cash,635,15,6.2,27,3.9
+1218,2025-07-07,Chennai,Fast Food,38,Returning,UPI,538,10,7.4,29,3.9
+1219,2025-07-08,Delhi,Fast Food,25,New,Wallet,259,5,5.7,31,4.4
+1220,2025-07-10,Hyderabad,South Indian,45,Returning,Card,366,25,2.4,18,4.7
+1221,2025-07-10,Chennai,Desserts,35,Returning,UPI,317,10,3.2,12,5.0
+1222,2025-07-11,Delhi,North Indian,26,New,Card,425,10,2.1,11,5.0
+1223,2025-07-13,Delhi,Chinese,47,New,Card,500,0,8.6,35,3.2
+1224,2025-07-15,Hyderabad,Desserts,25,Returning,Cash,614,10,1.6,16,5.0
+1225,2025-07-16,Bangalore,Chinese,36,New,UPI,700,10,4.4,29,4.4
+1226,2025-07-16,Hyderabad,Fast Food,32,Returning,UPI,226,0,3.8,19,4.8
+1227,2025-07-17,Delhi,Chinese,40,Returning,Cash,569,0,3.7,20,4.3
+1228,2025-07-19,Hyderabad,South Indian,42,Returning,Wallet,2134,10,4.0,18,5.0
+1229,2025-07-19,Delhi,Desserts,30,Returning,Cash,384,15,11.6,39,3.3
+1230,2025-07-20,Delhi,Chinese,24,Returning,UPI,703,10,1.1,10,5.0
+1231,2025-07-21,Delhi,Biryani,34,Returning,Cash,1276,0,9.8,35,3.0
+1232,2025-07-22,Hyderabad,North Indian,25,New,UPI,716,15,4.2,22,4.7
+1233,2025-07-22,Bangalore,North Indian,46,New,UPI,505,0,7.8,31,3.6
+1234,2025-07-28,Bangalore,North Indian,31,Returning,UPI,2446,5,5.0,33,4.2
+1235,2025-07-28,Mumbai,Fast Food,27,Returning,Card,436,0,2.2,25,4.9
+1236,2025-07-29,Chennai,South Indian,31,Returning,UPI,413,0,10.3,35,4.3
+1237,2025-07-29,Mumbai,Biryani,19,Returning,UPI,441,0,9.4,27,4.8
+1238,2025-07-29,Hyderabad,Chinese,22,Returning,Cash,869,5,2.4,18,5.0
+1239,2025-07-29,Mumbai,Desserts,40,Returning,UPI,223,0,6.8,31,3.9
+1240,2025-07-30,Mumbai,North Indian,25,Returning,UPI,900,5,3.3,17,4.9
+1241,2025-07-31,Mumbai,Biryani,22,New,UPI,646,10,1.6,13,4.0
+1242,2025-08-01,Mumbai,Biryani,34,Returning,Wallet,275,10,2.9,26,4.0
+1243,2025-08-02,Hyderabad,Biryani,39,Returning,Card,609,5,10.0,36,4.6
+1244,2025-08-02,Bangalore,Biryani,36,Returning,UPI,201,20,7.9,34,3.8
+1245,2025-08-02,Delhi,Biryani,38,Returning,Cash,684,0,4.0,18,3.7
+1246,2025-08-02,Chennai,Fast Food,24,Returning,Cash,608,10,10.0,37,4.8
+1247,2025-08-03,Mumbai,North Indian,19,Returning,UPI,346,0,9.0,33,4.3
+1248,2025-08-04,Bangalore,North Indian,42,New,Card,477,0,2.9,17,4.9
+1249,2025-08-04,Chennai,Desserts,27,Returning,Cash,777,10,11.4,45,3.2
+1250,2025-08-04,Bangalore,Fast Food,28,New,Card,325,10,3.8,16,4.8
+1251,2025-08-05,Delhi,Biryani,41,Returning,UPI,320,20,4.1,23,4.5
+1252,2025-08-06,Chennai,Chinese,34,New,Cash,838,10,1.1,13,4.4
+1253,2025-08-07,Bangalore,North Indian,34,New,Card,1092,25,3.2,22,4.4
+1254,2025-08-07,Mumbai,North Indian,47,New,UPI,452,0,4.4,22,3.8
+1255,2025-08-07,Delhi,Fast Food,25,Returning,UPI,644,0,5.8,30,4.0
+1256,2025-08-08,Hyderabad,Chinese,37,Returning,UPI,786,0,2.2,14,5.0
+1257,2025-08-08,Bangalore,North Indian,30,New,UPI,323,0,2.9,24,4.0
+1258,2025-08-08,Bangalore,Chinese,32,New,Cash,346,10,11.5,41,4.6
+1259,2025-08-09,Chennai,North Indian,42,Returning,UPI,786,10,8.7,28,3.6
+1260,2025-08-10,Hyderabad,Fast Food,34,New,UPI,872,0,9.6,39,3.7
+1261,2025-08-10,Delhi,South Indian,34,Returning,Card,526,25,4.6,23,4.1
+1262,2025-08-11,Mumbai,Biryani,39,Returning,UPI,347,20,5.9,20,4.4
+1263,2025-08-12,Delhi,South Indian,27,Returning,Wallet,999,0,6.9,31,4.7
+1264,2025-08-14,Hyderabad,Chinese,23,New,UPI,339,0,11.4,45,3.2
+1265,2025-08-14,Delhi,North Indian,22,Returning,UPI,2162,0,1.6,21,4.3
+1266,2025-08-15,Bangalore,North Indian,18,Returning,UPI,527,0,3.4,19,4.8
+1267,2025-08-15,Hyderabad,Chinese,46,Returning,UPI,865,0,5.6,27,4.3
+1268,2025-08-16,Chennai,Chinese,21,New,UPI,631,10,5.1,25,4.4
+1269,2025-08-16,Mumbai,Fast Food,28,Returning,Card,492,0,2.9,25,3.9
+1270,2025-08-17,Hyderabad,South Indian,28,New,Wallet,503,5,6.5,25,4.3
+1271,2025-08-17,Delhi,Fast Food,32,Returning,UPI,417,25,3.5,19,5.0
+1272,2025-08-17,Hyderabad,Biryani,37,Returning,Card,663,15,4.8,21,3.7
+1273,2025-08-19,Delhi,Biryani,37,Returning,Card,165,25,6.4,22,4.1
+1274,2025-08-19,Mumbai,North Indian,25,New,Cash,395,0,3.6,22,3.6
+1275,2025-08-19,Hyderabad,Chinese,29,New,UPI,479,5,7.5,37,4.1
+1276,2025-08-20,Delhi,North Indian,32,Returning,UPI,269,10,8.3,32,4.6
+1277,2025-08-20,Delhi,North Indian,28,New,UPI,537,0,3.0,16,4.6
+1278,2025-08-21,Hyderabad,Desserts,43,New,Card,294,0,3.5,21,4.0
+1279,2025-08-24,Hyderabad,North Indian,34,Returning,Cash,995,15,2.5,21,4.0
+1280,2025-08-24,Bangalore,Chinese,36,Returning,UPI,873,10,4.8,23,4.3
+1281,2025-08-25,Bangalore,Fast Food,35,New,UPI,331,5,5.8,32,3.9
+1282,2025-08-26,Bangalore,Fast Food,39,Returning,Wallet,382,10,3.9,19,4.9
+1283,2025-08-26,Mumbai,Fast Food,31,New,Cash,395,5,5.7,25,4.0
+1284,2025-08-27,Mumbai,North Indian,20,Returning,Wallet,368,0,3.5,22,4.6
+1285,2025-08-29,Delhi,South Indian,33,New,Cash,446,5,3.5,22,4.3
+1286,2025-08-29,Chennai,Chinese,25,Returning,UPI,306,0,5.9,27,3.9
+1287,2025-08-29,Bangalore,North Indian,26,Returning,Card,271,0,3.7,16,4.5
+1288,2025-08-30,Mumbai,South Indian,35,Returning,Card,541,25,4.6,33,4.2
+1289,2025-08-31,Mumbai,North Indian,40,Returning,UPI,599,10,6.1,26,4.7
+1290,2025-08-31,Chennai,North Indian,30,New,Card,314,15,5.6,26,4.2
+1291,2025-08-31,Delhi,Chinese,32,Returning,Card,643,5,3.5,23,3.9
+1292,2025-09-02,Bangalore,North Indian,44,Returning,UPI,340,5,8.8,31,4.6
+1293,2025-09-03,Bangalore,Fast Food,32,Returning,Cash,458,0,1.5,16,4.2
+1294,2025-09-03,Bangalore,Fast Food,51,New,Card,591,0,0.5,11,4.9
+1295,2025-09-05,Delhi,Biryani,35,Returning,Wallet,508,0,6.7,30,4.1
+1296,2025-09-06,Chennai,North Indian,18,New,UPI,554,15,5.6,25,4.3
+1297,2025-09-06,Chennai,North Indian,36,Returning,UPI,358,15,2.3,19,4.3
+1298,2025-09-07,Bangalore,North Indian,33,Returning,Card,413,10,5.1,21,4.7
+1299,2025-09-07,Bangalore,Fast Food,40,Returning,UPI,372,10,3.2,17,3.0
+1300,2025-09-08,Chennai,Fast Food,35,Returning,Card,2025,25,6.4,23,4.9
+1301,2025-09-08,Hyderabad,North Indian,29,Returning,Cash,417,0,0.5,10,4.4
+1302,2025-09-09,Delhi,Desserts,20,New,UPI,161,0,4.1,12,5.0
+1303,2025-09-09,Bangalore,North Indian,28,New,Card,362,5,3.4,19,4.7
+1304,2025-09-10,Bangalore,Fast Food,23,New,Card,359,15,7.5,29,4.8
+1305,2025-09-11,Mumbai,Fast Food,25,New,UPI,364,25,1.1,15,4.8
+1306,2025-09-11,Hyderabad,Biryani,35,New,Wallet,463,0,4.9,24,4.0
+1307,2025-09-12,Chennai,Fast Food,43,New,Cash,397,20,6.6,34,3.3
+1308,2025-09-13,Chennai,Biryani,33,Returning,Card,640,20,12.6,54,3.2
+1309,2025-09-13,Mumbai,South Indian,20,Returning,Card,605,0,3.5,25,3.4
+1310,2025-09-13,Delhi,Biryani,34,New,UPI,385,5,5.8,25,4.0
+1311,2025-09-13,Chennai,North Indian,40,Returning,Wallet,263,5,1.2,13,4.6
+1312,2025-09-13,Hyderabad,Biryani,25,New,Card,323,25,4.8,27,3.9
+1313,2025-09-14,Delhi,Fast Food,29,Returning,Card,328,0,9.2,28,4.2
+1314,2025-09-14,Chennai,Biryani,30,Returning,Cash,440,15,12.7,42,3.6
+1315,2025-09-14,Chennai,Chinese,24,Returning,UPI,304,5,6.1,26,4.1
+1316,2025-09-14,Bangalore,Fast Food,35,Returning,Cash,228,15,1.5,18,3.5
+1317,2025-09-15,Bangalore,Fast Food,29,Returning,UPI,333,5,10.0,39,3.3
+1318,2025-09-15,Mumbai,Fast Food,33,Returning,UPI,443,10,1.5,13,5.0
+1319,2025-09-15,Delhi,North Indian,23,Returning,UPI,590,20,2.1,16,5.0
+1320,2025-09-17,Mumbai,North Indian,27,Returning,Wallet,351,20,10.5,40,3.0
+1321,2025-09-17,Hyderabad,North Indian,36,Returning,Cash,375,20,4.6,20,4.1
+1322,2025-09-17,Delhi,North Indian,27,New,Card,298,0,3.3,25,4.8
+1323,2025-09-18,Mumbai,Biryani,44,Returning,Card,509,15,7.2,32,3.8
+1324,2025-09-18,Mumbai,North Indian,27,New,Card,308,0,5.3,26,4.2
+1325,2025-09-19,Bangalore,Desserts,32,Returning,Wallet,417,5,8.7,35,4.6
+1326,2025-09-19,Chennai,South Indian,37,Returning,UPI,183,10,5.4,24,4.2
+1327,2025-09-19,Mumbai,North Indian,19,New,UPI,384,5,5.5,23,4.2
+1328,2025-09-20,Mumbai,Biryani,18,Returning,UPI,591,10,8.5,32,4.0
+1329,2025-09-21,Hyderabad,Fast Food,18,Returning,Cash,444,25,4.5,25,5.0
+1330,2025-09-22,Mumbai,Chinese,40,Returning,Card,1445,0,2.6,19,4.7
+1331,2025-09-22,Delhi,Fast Food,26,Returning,UPI,478,15,7.4,29,4.2
+1332,2025-09-22,Mumbai,Fast Food,50,Returning,UPI,260,5,4.0,25,4.1
+1333,2025-09-23,Delhi,North Indian,25,New,Cash,433,0,5.7,26,4.5
+1334,2025-09-23,Delhi,Desserts,31,Returning,UPI,145,0,1.0,12,5.0
+1335,2025-09-26,Mumbai,Desserts,42,New,Card,311,25,4.4,24,3.9
+1336,2025-09-27,Mumbai,Fast Food,46,Returning,Wallet,281,20,3.4,16,4.9
+1337,2025-09-28,Chennai,North Indian,46,New,UPI,682,20,1.0,10,4.8
+1338,2025-09-30,Mumbai,Fast Food,40,Returning,UPI,1907,25,4.5,23,4.4
+1339,2025-09-30,Bangalore,North Indian,38,Returning,Card,428,0,4.6,21,4.1
+1340,2025-10-02,Bangalore,North Indian,35,New,Cash,339,5,6.0,26,4.1
+1341,2025-10-03,Delhi,South Indian,36,Returning,Card,893,15,9.1,31,3.7
+1342,2025-10-04,Bangalore,Chinese,26,Returning,Wallet,372,10,8.3,38,3.4
+1343,2025-10-04,Delhi,Biryani,23,Returning,UPI,1177,5,3.6,18,4.7
+1344,2025-10-04,Chennai,Fast Food,30,Returning,Card,589,5,5.4,24,4.2
+1345,2025-10-04,Delhi,Biryani,29,Returning,Card,641,10,6.5,30,3.6
+1346,2025-10-04,Mumbai,Chinese,26,Returning,Cash,508,10,3.6,15,5.0
+1347,2025-10-05,Delhi,South Indian,36,New,UPI,488,0,1.6,10,4.3
+1348,2025-10-05,Chennai,Chinese,38,New,Cash,181,10,4.2,24,4.9
+1349,2025-10-06,Bangalore,Desserts,31,Returning,Card,284,10,9.3,33,3.4
+1350,2025-10-06,Bangalore,North Indian,42,Returning,UPI,660,10,1.6,12,5.0
+1351,2025-10-06,Delhi,Biryani,21,Returning,UPI,505,0,2.4,20,4.4
+1352,2025-10-07,Hyderabad,Fast Food,28,Returning,Cash,217,15,2.8,16,4.4
+1353,2025-10-07,Delhi,Chinese,24,Returning,UPI,420,0,2.5,17,4.7
+1354,2025-10-07,Chennai,Fast Food,18,Returning,UPI,879,5,7.2,26,4.3
+1355,2025-10-09,Delhi,Chinese,29,Returning,UPI,754,15,3.2,21,4.1
+1356,2025-10-09,Delhi,Biryani,29,Returning,Cash,502,10,7.3,36,3.6
+1357,2025-10-10,Delhi,Biryani,42,Returning,Card,792,0,4.9,17,3.9
+1358,2025-10-12,Mumbai,Chinese,35,Returning,Cash,365,15,1.3,16,4.8
+1359,2025-10-13,Bangalore,South Indian,22,Returning,UPI,190,10,3.7,25,3.8
+1360,2025-10-13,Delhi,Fast Food,45,Returning,Card,269,15,8.4,31,4.1
+1361,2025-10-13,Hyderabad,Biryani,40,New,Card,1043,15,5.3,21,4.7
+1362,2025-10-14,Mumbai,North Indian,35,New,Cash,399,10,3.9,23,4.5
+1363,2025-10-14,Bangalore,Fast Food,28,Returning,Wallet,366,10,9.4,40,3.5
+1364,2025-10-15,Mumbai,Fast Food,22,Returning,UPI,357,0,2.3,21,4.9
+1365,2025-10-16,Mumbai,Fast Food,27,Returning,Card,962,0,3.3,22,4.2
+1366,2025-10-17,Bangalore,North Indian,39,Returning,UPI,938,5,8.0,32,3.5
+1367,2025-10-18,Delhi,Fast Food,45,New,Card,1109,10,7.1,26,4.2
+1368,2025-10-19,Delhi,Biryani,42,Returning,UPI,480,10,2.1,21,4.7
+1369,2025-10-19,Chennai,North Indian,26,Returning,UPI,516,0,6.3,31,3.8
+1370,2025-10-20,Chennai,North Indian,21,Returning,UPI,228,0,3.1,15,5.0
+1371,2025-10-20,Mumbai,Desserts,31,Returning,Card,627,10,0.9,16,4.3
+1372,2025-10-21,Mumbai,North Indian,18,Returning,UPI,2292,0,3.9,24,4.1
+1373,2025-10-21,Bangalore,Biryani,33,New,Card,569,15,13.1,48,3.0
+1374,2025-10-22,Mumbai,Chinese,29,Returning,UPI,262,0,8.5,33,4.4
+1375,2025-10-22,Delhi,North Indian,26,Returning,UPI,346,10,4.7,20,4.5
+1376,2025-10-23,Delhi,Biryani,18,Returning,Cash,354,25,1.5,14,4.3
+1377,2025-10-24,Hyderabad,Chinese,34,Returning,UPI,327,0,1.0,10,4.7
+1378,2025-10-24,Bangalore,Chinese,26,New,UPI,337,10,4.9,24,3.0
+1379,2025-10-24,Delhi,South Indian,21,New,Card,319,0,6.1,26,4.6
+1380,2025-10-26,Delhi,Fast Food,18,Returning,UPI,594,10,7.2,39,3.8
+1381,2025-10-26,Delhi,North Indian,30,Returning,UPI,275,10,6.8,33,3.0
+1382,2025-10-27,Bangalore,Chinese,44,New,UPI,475,5,7.1,34,3.4
+1383,2025-10-27,Delhi,Desserts,43,New,Wallet,558,10,5.7,28,4.0
+1384,2025-10-28,Delhi,South Indian,26,Returning,Card,1643,20,9.2,34,3.4
+1385,2025-10-28,Hyderabad,Fast Food,25,New,Card,296,0,3.4,19,4.9
+1386,2025-10-29,Delhi,South Indian,34,Returning,Card,368,0,4.9,24,4.5
+1387,2025-10-29,Bangalore,Biryani,22,Returning,UPI,877,20,1.3,16,4.8
+1388,2025-10-31,Delhi,North Indian,32,Returning,UPI,493,10,3.4,22,3.3
+1389,2025-11-01,Delhi,Desserts,36,New,Cash,254,20,8.4,33,3.8
+1390,2025-11-02,Delhi,Chinese,40,New,UPI,535,10,7.0,28,3.9
+1391,2025-11-03,Hyderabad,North Indian,29,Returning,UPI,275,20,0.7,11,4.4
+1392,2025-11-03,Chennai,North Indian,28,Returning,UPI,614,5,13.7,41,3.6
+1393,2025-11-03,Hyderabad,North Indian,23,Returning,UPI,543,15,5.3,30,3.6
+1394,2025-11-04,Mumbai,Chinese,23,New,Wallet,374,20,5.3,34,4.1
+1395,2025-11-05,Bangalore,South Indian,28,Returning,UPI,280,10,3.2,25,4.7
+1396,2025-11-05,Delhi,Biryani,33,Returning,Card,346,0,3.7,16,4.9
+1397,2025-11-05,Mumbai,Chinese,37,Returning,UPI,547,0,5.2,28,4.2
+1398,2025-11-06,Chennai,North Indian,24,Returning,Wallet,785,0,6.7,33,4.9
+1399,2025-11-07,Delhi,Fast Food,42,Returning,UPI,307,0,5.8,25,4.8
+1400,2025-11-07,Delhi,Fast Food,28,Returning,UPI,502,5,3.4,22,4.4
+1401,2025-11-07,Delhi,North Indian,30,New,Card,177,10,2.6,17,4.4
+1402,2025-11-07,Delhi,North Indian,24,Returning,Card,347,10,2.5,24,5.0
+1403,2025-11-08,Delhi,North Indian,18,New,UPI,445,5,8.7,35,4.4
+1404,2025-11-08,Bangalore,Fast Food,37,Returning,UPI,271,10,8.1,29,3.6
+1405,2025-11-09,Mumbai,Fast Food,36,Returning,UPI,268,0,6.4,31,4.6
+1406,2025-11-09,Chennai,Chinese,28,New,UPI,318,0,8.7,38,3.8
+1407,2025-11-09,Hyderabad,Biryani,31,New,UPI,589,0,4.4,24,4.0
+1408,2025-11-09,Mumbai,Biryani,34,New,UPI,474,10,7.7,33,3.2
+1409,2025-11-11,Mumbai,Fast Food,18,Returning,UPI,149,0,6.6,28,4.1
+1410,2025-11-11,Mumbai,Biryani,26,Returning,UPI,199,0,7.9,27,4.2
+1411,2025-11-12,Bangalore,North Indian,36,New,Card,344,5,2.3,17,5.0
+1412,2025-11-13,Mumbai,North Indian,20,Returning,Wallet,555,20,0.6,16,5.0
+1413,2025-11-14,Bangalore,South Indian,32,Returning,Card,119,0,5.6,25,4.1
+1414,2025-11-15,Mumbai,North Indian,19,New,UPI,361,10,3.8,25,4.5
+1415,2025-11-15,Bangalore,Fast Food,34,New,UPI,322,15,0.8,12,5.0
+1416,2025-11-17,Mumbai,Desserts,30,Returning,Wallet,602,15,9.5,34,4.0
+1417,2025-11-19,Mumbai,North Indian,18,Returning,UPI,380,25,8.2,36,3.7
+1418,2025-11-19,Chennai,North Indian,39,Returning,UPI,536,0,5.9,28,4.0
+1419,2025-11-20,Hyderabad,Chinese,24,New,Card,458,0,2.7,17,4.8
+1420,2025-11-21,Delhi,Desserts,24,New,Card,124,20,1.2,19,4.7
+1421,2025-11-21,Chennai,South Indian,32,Returning,Card,577,10,0.8,11,4.7
+1422,2025-11-22,Mumbai,Chinese,39,New,UPI,474,10,3.4,18,3.4
+1423,2025-11-22,Chennai,North Indian,22,New,UPI,568,15,7.1,18,4.0
+1424,2025-11-23,Hyderabad,North Indian,30,New,Wallet,2500,15,3.9,20,4.8
+1425,2025-11-24,Mumbai,Desserts,33,Returning,UPI,126,25,6.4,33,3.1
+1426,2025-11-24,Delhi,Desserts,36,Returning,Card,701,25,6.6,20,5.0
+1427,2025-11-24,Mumbai,North Indian,31,Returning,Card,397,15,7.1,26,4.8
+1428,2025-11-25,Bangalore,Desserts,27,Returning,Card,367,0,1.1,17,4.6
+1429,2025-11-27,Bangalore,Fast Food,23,New,UPI,400,20,2.9,10,5.0
+1430,2025-11-27,Mumbai,Biryani,31,Returning,UPI,426,0,6.4,26,4.5
+1431,2025-11-27,Delhi,Chinese,21,New,Card,333,0,10.7,43,3.6
+1432,2025-11-30,Hyderabad,Chinese,18,Returning,Cash,499,20,9.0,43,3.1
+1433,2025-11-30,Chennai,Chinese,33,Returning,Wallet,217,0,5.7,27,4.7
+1434,2025-11-30,Bangalore,Fast Food,37,Returning,UPI,573,0,9.6,32,4.7
+1435,2025-11-30,Delhi,North Indian,18,Returning,UPI,374,0,5.7,22,3.9
+1436,2025-12-01,Mumbai,North Indian,22,Returning,Wallet,272,20,1.5,16,4.0
+1437,2025-12-01,Delhi,South Indian,35,New,Card,334,10,7.0,31,4.1
+1438,2025-12-01,Chennai,Fast Food,46,Returning,Cash,1501,15,9.2,42,3.4
+1439,2025-12-01,Delhi,North Indian,30,Returning,UPI,355,0,12.5,47,3.6
+1440,2025-12-02,Bangalore,Fast Food,24,Returning,Card,480,15,3.3,21,5.0
+1441,2025-12-02,Mumbai,Desserts,29,Returning,Card,232,15,2.1,16,3.6
+1442,2025-12-02,Bangalore,North Indian,41,Returning,Card,635,5,7.8,44,4.4
+1443,2025-12-03,Bangalore,Fast Food,25,New,UPI,556,5,6.1,30,4.0
+1444,2025-12-03,Hyderabad,Chinese,24,Returning,UPI,988,0,5.8,24,4.6
+1445,2025-12-03,Delhi,Biryani,26,New,Card,477,25,9.6,35,4.3
+1446,2025-12-04,Delhi,North Indian,22,Returning,UPI,610,10,7.7,28,4.6
+1447,2025-12-04,Delhi,Fast Food,31,Returning,UPI,427,25,6.5,19,4.6
+1448,2025-12-04,Chennai,Biryani,43,Returning,Wallet,924,5,3.6,22,4.6
+1449,2025-12-05,Chennai,Desserts,33,Returning,UPI,233,15,7.4,38,4.0
+1450,2025-12-05,Bangalore,Fast Food,28,Returning,Cash,571,15,2.1,11,4.5
+1451,2025-12-05,Bangalore,Chinese,28,New,UPI,394,15,5.7,26,3.5
+1452,2025-12-06,Bangalore,Fast Food,18,Returning,Card,397,25,4.7,21,3.9
+1453,2025-12-06,Delhi,Biryani,37,New,Wallet,538,5,1.5,18,4.5
+1454,2025-12-06,Chennai,Fast Food,29,Returning,UPI,458,0,6.1,27,3.9
+1455,2025-12-07,Mumbai,North Indian,29,New,UPI,428,15,3.3,15,4.3
+1456,2025-12-07,Mumbai,Desserts,56,New,UPI,355,15,6.1,23,5.0
+1457,2025-12-10,Bangalore,Fast Food,32,Returning,UPI,831,10,2.5,15,5.0
+1458,2025-12-10,Delhi,Fast Food,24,New,Card,636,0,7.8,37,3.8
+1459,2025-12-12,Delhi,North Indian,27,Returning,Wallet,668,10,11.6,46,3.9
+1460,2025-12-12,Hyderabad,Fast Food,39,New,UPI,333,5,2.1,16,4.5
+1461,2025-12-12,Delhi,Chinese,31,New,UPI,288,5,2.5,23,4.4
+1462,2025-12-14,Bangalore,Fast Food,18,Returning,UPI,628,10,1.8,16,4.8
+1463,2025-12-14,Delhi,North Indian,37,New,Card,670,15,4.2,21,4.3
+1464,2025-12-14,Mumbai,Fast Food,25,New,UPI,793,0,6.0,27,3.9
+1465,2025-12-15,Mumbai,Desserts,45,Returning,Card,246,5,7.1,31,4.7
+1466,2025-12-15,Mumbai,North Indian,39,New,Card,407,0,5.6,24,4.6
+1467,2025-12-15,Hyderabad,Desserts,26,Returning,Card,154,0,7.0,30,3.1
+1468,2025-12-15,Mumbai,Chinese,40,New,UPI,360,15,4.6,27,4.0
+1469,2025-12-17,Bangalore,Biryani,31,New,Card,808,20,3.3,21,4.1
+1470,2025-12-17,Mumbai,Biryani,37,Returning,UPI,418,5,2.5,18,4.3
+1471,2025-12-18,Bangalore,Fast Food,34,New,UPI,545,15,4.3,25,4.7
+1472,2025-12-18,Chennai,Fast Food,23,New,Cash,375,20,2.6,21,4.5
+1473,2025-12-18,Hyderabad,Biryani,25,Returning,Card,597,20,5.9,26,3.7
+1474,2025-12-18,Delhi,Chinese,38,New,UPI,257,0,2.6,17,4.4
+1475,2025-12-19,Delhi,South Indian,27,Returning,UPI,424,25,3.5,22,4.7
+1476,2025-12-19,Mumbai,Fast Food,27,New,UPI,106,5,8.7,27,4.2
+1477,2025-12-21,Bangalore,Biryani,22,Returning,UPI,474,5,9.2,34,3.7
+1478,2025-12-21,Delhi,Biryani,33,Returning,UPI,248,0,9.0,25,4.5
+1479,2025-12-21,Mumbai,Biryani,47,Returning,UPI,888,10,4.6,17,5.0
+1480,2025-12-21,Bangalore,Chinese,21,Returning,UPI,610,0,3.4,13,5.0
+1481,2025-12-21,Mumbai,Biryani,30,Returning,Card,637,0,6.4,32,4.7
+1482,2025-12-21,Hyderabad,North Indian,41,Returning,Card,895,5,2.7,19,4.3
+1483,2025-12-22,Delhi,Fast Food,29,New,Card,267,20,7.3,25,4.3
+1484,2025-12-22,Delhi,North Indian,34,Returning,UPI,991,20,3.2,22,4.4
+1485,2025-12-23,Hyderabad,South Indian,22,Returning,Wallet,621,5,4.2,26,4.3
+1486,2025-12-23,Mumbai,South Indian,33,Returning,Cash,367,20,7.4,33,4.2
+1487,2025-12-23,Bangalore,Chinese,29,Returning,Cash,717,20,1.2,14,4.3
+1488,2025-12-23,Mumbai,Fast Food,38,Returning,Cash,248,15,3.2,21,4.8
+1489,2025-12-24,Delhi,Chinese,39,New,Wallet,297,0,6.0,31,3.4
+1490,2025-12-24,Hyderabad,Chinese,51,New,Card,327,15,6.7,27,3.7
+1491,2025-12-24,Hyderabad,North Indian,35,Returning,UPI,356,25,6.1,27,5.0
+1492,2025-12-25,Bangalore,Chinese,33,Returning,Card,267,15,4.2,21,4.2
+1493,2025-12-27,Mumbai,North Indian,32,Returning,Card,783,5,7.8,25,4.7
+1494,2025-12-28,Bangalore,North Indian,27,Returning,Card,402,10,2.5,22,5.0
+1495,2025-12-28,Mumbai,Fast Food,33,Returning,Card,479,10,2.4,26,3.2
+1496,2025-12-28,Delhi,Fast Food,28,Returning,UPI,316,10,5.9,23,4.9
+1497,2025-12-28,Chennai,Fast Food,31,New,UPI,180,0,2.3,22,4.7
+1498,2025-12-28,Delhi,Chinese,41,New,Wallet,486,5,11.8,38,4.6
+1499,2025-12-29,Chennai,Chinese,22,Returning,Card,182,20,3.3,21,3.9
+1500,2025-12-29,Mumbai,Biryani,39,Returning,Card,500,20,7.8,38,4.5
